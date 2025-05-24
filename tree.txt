@@ -1,0 +1,3479 @@
+Folder PATH listing
+Volume serial number is 26C3-D2DF
+C:.
+├───docs
+│   └───dist
+│       └───images
+├───figma-file
+└───packages
+    ├───javascript
+    │   ├───dark
+    │   │   ├───public
+    │   │   └───src
+    │   │       ├───api
+    │   │       │   ├───blog
+    │   │       │   ├───chat
+    │   │       │   ├───contacts
+    │   │       │   ├───eCommerce
+    │   │       │   ├───email
+    │   │       │   ├───invoice
+    │   │       │   ├───kanban
+    │   │       │   ├───language
+    │   │       │   ├───mocks
+    │   │       │   │   └───handlers
+    │   │       │   ├───notes
+    │   │       │   ├───ticket
+    │   │       │   └───userprofile
+    │   │       ├───assets
+    │   │       │   └───images
+    │   │       │       ├───backgrounds
+    │   │       │       ├───blog
+    │   │       │       ├───breadcrumb
+    │   │       │       ├───chat
+    │   │       │       ├───flag
+    │   │       │       ├───frontend-pages
+    │   │       │       │   ├───contact
+    │   │       │       │   ├───homepage
+    │   │       │       │   ├───icons
+    │   │       │       │   └───payments
+    │   │       │       ├───kanban
+    │   │       │       ├───landingpage
+    │   │       │       │   ├───apps
+    │   │       │       │   ├───background
+    │   │       │       │   ├───demos
+    │   │       │       │   ├───f-pages
+    │   │       │       │   ├───frameworks
+    │   │       │       │   ├───profile
+    │   │       │       │   └───shape
+    │   │       │       ├───logos
+    │   │       │       ├───products
+    │   │       │       ├───profile
+    │   │       │       └───svgs
+    │   │       ├───components
+    │   │       │   ├───apps
+    │   │       │   │   ├───blog
+    │   │       │   │   │   └───detail
+    │   │       │   │   ├───chats
+    │   │       │   │   ├───contacts
+    │   │       │   │   ├───ecommerce
+    │   │       │   │   │   ├───productAdd
+    │   │       │   │   │   ├───productCart
+    │   │       │   │   │   ├───productCheckout
+    │   │       │   │   │   ├───productDetail
+    │   │       │   │   │   ├───productEdit
+    │   │       │   │   │   ├───productGrid
+    │   │       │   │   │   └───ProductTableList
+    │   │       │   │   ├───email
+    │   │       │   │   ├───invoice
+    │   │       │   │   │   ├───Add-invoice
+    │   │       │   │   │   ├───Edit-invoice
+    │   │       │   │   │   ├───Invoice-detail
+    │   │       │   │   │   └───Invoice-list
+    │   │       │   │   ├───kanban
+    │   │       │   │   │   └───TaskModal
+    │   │       │   │   ├───notes
+    │   │       │   │   ├───tickets
+    │   │       │   │   └───userprofile
+    │   │       │   │       ├───followers
+    │   │       │   │       ├───friends
+    │   │       │   │       ├───gallery
+    │   │       │   │       └───profile
+    │   │       │   ├───container
+    │   │       │   ├───custom-scroll
+    │   │       │   ├───dashboards
+    │   │       │   │   ├───ecommerce
+    │   │       │   │   └───modern
+    │   │       │   ├───forms
+    │   │       │   │   ├───form-elements
+    │   │       │   │   │   ├───autoComplete
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───button
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───checkbox
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───date-time
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───radio
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───slider
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   └───switch
+    │   │       │   │   │       └───code
+    │   │       │   │   ├───form-horizontal
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-layouts
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-validation
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-vertical
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-wizard
+    │   │       │   │   │   └───code
+    │   │       │   │   └───theme-elements
+    │   │       │   ├───frontend-pages
+    │   │       │   │   ├───about
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   ├───key-metric
+    │   │       │   │   │   └───process
+    │   │       │   │   ├───blog
+    │   │       │   │   │   └───banner
+    │   │       │   │   ├───contact
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   └───form
+    │   │       │   │   ├───homepage
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   ├───defend-focus
+    │   │       │   │   │   ├───exceptional-feature
+    │   │       │   │   │   ├───faq
+    │   │       │   │   │   ├───features
+    │   │       │   │   │   └───powerful-dozens
+    │   │       │   │   ├───portfolio
+    │   │       │   │   ├───pricing
+    │   │       │   │   └───shared
+    │   │       │   │       ├───c2a
+    │   │       │   │       ├───footer
+    │   │       │   │       ├───header
+    │   │       │   │       ├───leadership
+    │   │       │   │       ├───pricing
+    │   │       │   │       ├───reviews
+    │   │       │   │       └───scroll-to-top
+    │   │       │   ├───landingpage
+    │   │       │   │   ├───animation
+    │   │       │   │   ├───banner
+    │   │       │   │   ├───c2a
+    │   │       │   │   ├───demo-slider
+    │   │       │   │   ├───features
+    │   │       │   │   ├───footer
+    │   │       │   │   ├───frameworks
+    │   │       │   │   ├───header
+    │   │       │   │   └───testimonial
+    │   │       │   ├───material-ui
+    │   │       │   │   ├───accordion
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───alert
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───avatar
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───chip
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───dialog
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───lists
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───popover
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───tabs
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───tooltip
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───transfer-list
+    │   │       │   │   │   └───code
+    │   │       │   │   └───typography
+    │   │       │   │       └───code
+    │   │       │   ├───muicharts
+    │   │       │   │   ├───barcharts
+    │   │       │   │   ├───code
+    │   │       │   │   │   ├───areachartscode
+    │   │       │   │   │   ├───barchartcode
+    │   │       │   │   │   ├───gaugechartscode
+    │   │       │   │   │   ├───linechartscode
+    │   │       │   │   │   ├───piechartcode
+    │   │       │   │   │   ├───scatterchartscode
+    │   │       │   │   │   └───sparklinecode
+    │   │       │   │   ├───gaugecharts
+    │   │       │   │   ├───linescharts
+    │   │       │   │   │   ├───areacharts
+    │   │       │   │   │   └───linechart
+    │   │       │   │   ├───piecharts
+    │   │       │   │   ├───scattercharts
+    │   │       │   │   └───sparklinecharts
+    │   │       │   ├───muitrees
+    │   │       │   │   ├───code
+    │   │       │   │   │   └───simpletreecode
+    │   │       │   │   └───simpletree
+    │   │       │   ├───pages
+    │   │       │   │   ├───account-setting
+    │   │       │   │   └───faq
+    │   │       │   ├───react-tables
+    │   │       │   │   ├───basic
+    │   │       │   │   ├───column-visiblity
+    │   │       │   │   ├───dense
+    │   │       │   │   ├───drag-drop
+    │   │       │   │   ├───editable
+    │   │       │   │   ├───empty
+    │   │       │   │   ├───expanding
+    │   │       │   │   ├───filter
+    │   │       │   │   ├───pagination
+    │   │       │   │   ├───row-selection
+    │   │       │   │   ├───sorting
+    │   │       │   │   └───sticky
+    │   │       │   ├───shared
+    │   │       │   ├───tables
+    │   │       │   │   └───code
+    │   │       │   └───widgets
+    │   │       │       ├───banners
+    │   │       │       │   └───code
+    │   │       │       ├───cards
+    │   │       │       │   └───code
+    │   │       │       └───charts
+    │   │       ├───context
+    │   │       │   ├───BlogContext
+    │   │       │   ├───ChatContext
+    │   │       │   ├───ConatactContext
+    │   │       │   ├───EcommerceContext
+    │   │       │   ├───EmailContext
+    │   │       │   ├───InvoiceContext
+    │   │       │   ├───kanbancontext
+    │   │       │   ├───NotesContext
+    │   │       │   ├───TicketContext
+    │   │       │   └───UserDataContext
+    │   │       ├───layouts
+    │   │       │   ├───blank
+    │   │       │   └───full
+    │   │       │       ├───horizontal
+    │   │       │       │   ├───header
+    │   │       │       │   └───navbar
+    │   │       │       │       ├───NavCollapse
+    │   │       │       │       ├───NavItem
+    │   │       │       │       └───NavListing
+    │   │       │       ├───shared
+    │   │       │       │   ├───breadcrumb
+    │   │       │       │   ├───customizer
+    │   │       │       │   ├───loadable
+    │   │       │       │   ├───logo
+    │   │       │       │   └───welcome
+    │   │       │       └───vertical
+    │   │       │           ├───header
+    │   │       │           └───sidebar
+    │   │       │               ├───NavCollapse
+    │   │       │               ├───NavGroup
+    │   │       │               ├───NavItem
+    │   │       │               └───SidebarProfile
+    │   │       ├───routes
+    │   │       ├───theme
+    │   │       ├───utils
+    │   │       │   └───languages
+    │   │       └───views
+    │   │           ├───apps
+    │   │           │   ├───blog
+    │   │           │   ├───calendar
+    │   │           │   ├───chat
+    │   │           │   ├───contacts
+    │   │           │   ├───eCommerce
+    │   │           │   ├───email
+    │   │           │   ├───invoice
+    │   │           │   ├───kanban
+    │   │           │   ├───notes
+    │   │           │   ├───tickets
+    │   │           │   └───user-profile
+    │   │           ├───authentication
+    │   │           │   ├───auth1
+    │   │           │   ├───auth2
+    │   │           │   └───authForms
+    │   │           ├───charts
+    │   │           ├───dashboard
+    │   │           ├───forms
+    │   │           │   ├───form-elements
+    │   │           │   └───from-tiptap
+    │   │           ├───mui-trees
+    │   │           │   └───simpletree
+    │   │           │       ├───simpletree-customization
+    │   │           │       ├───simpletree-expansion
+    │   │           │       ├───simpletree-focus
+    │   │           │       ├───simpletree-items
+    │   │           │       └───simpletree-selection
+    │   │           ├───muicharts
+    │   │           │   ├───barcharts
+    │   │           │   ├───gaugecharts
+    │   │           │   ├───linecharts
+    │   │           │   │   ├───area
+    │   │           │   │   └───line
+    │   │           │   ├───piecharts
+    │   │           │   ├───scattercharts
+    │   │           │   └───sparklinecharts
+    │   │           ├───pages
+    │   │           │   ├───account-setting
+    │   │           │   ├───faq
+    │   │           │   ├───frontend-pages
+    │   │           │   ├───landingpage
+    │   │           │   ├───pricing
+    │   │           │   └───rollbaseCASL
+    │   │           ├───react-tables
+    │   │           │   ├───basic
+    │   │           │   ├───columnvisibility
+    │   │           │   ├───dense
+    │   │           │   ├───drag-drop
+    │   │           │   ├───editable
+    │   │           │   ├───empty
+    │   │           │   ├───expanding
+    │   │           │   ├───filtering
+    │   │           │   ├───pagination
+    │   │           │   ├───row-selection
+    │   │           │   ├───sorting
+    │   │           │   └───sticky
+    │   │           ├───spinner
+    │   │           ├───tables
+    │   │           ├───ui-components
+    │   │           └───widgets
+    │   │               ├───banners
+    │   │               ├───cards
+    │   │               └───charts
+    │   ├───horizontal
+    │   │   ├───public
+    │   │   └───src
+    │   │       ├───api
+    │   │       │   ├───blog
+    │   │       │   ├───chat
+    │   │       │   ├───contacts
+    │   │       │   ├───eCommerce
+    │   │       │   ├───email
+    │   │       │   ├───invoice
+    │   │       │   ├───kanban
+    │   │       │   ├───language
+    │   │       │   ├───mocks
+    │   │       │   │   └───handlers
+    │   │       │   ├───notes
+    │   │       │   ├───ticket
+    │   │       │   └───userprofile
+    │   │       ├───assets
+    │   │       │   └───images
+    │   │       │       ├───backgrounds
+    │   │       │       ├───blog
+    │   │       │       ├───breadcrumb
+    │   │       │       ├───chat
+    │   │       │       ├───flag
+    │   │       │       ├───frontend-pages
+    │   │       │       │   ├───contact
+    │   │       │       │   ├───homepage
+    │   │       │       │   ├───icons
+    │   │       │       │   └───payments
+    │   │       │       ├───kanban
+    │   │       │       ├───landingpage
+    │   │       │       │   ├───apps
+    │   │       │       │   ├───background
+    │   │       │       │   ├───demos
+    │   │       │       │   ├───f-pages
+    │   │       │       │   ├───frameworks
+    │   │       │       │   ├───profile
+    │   │       │       │   └───shape
+    │   │       │       ├───logos
+    │   │       │       ├───products
+    │   │       │       ├───profile
+    │   │       │       └───svgs
+    │   │       ├───components
+    │   │       │   ├───apps
+    │   │       │   │   ├───blog
+    │   │       │   │   │   └───detail
+    │   │       │   │   ├───chats
+    │   │       │   │   ├───contacts
+    │   │       │   │   ├───ecommerce
+    │   │       │   │   │   ├───productAdd
+    │   │       │   │   │   ├───productCart
+    │   │       │   │   │   ├───productCheckout
+    │   │       │   │   │   ├───productDetail
+    │   │       │   │   │   ├───productEdit
+    │   │       │   │   │   ├───productGrid
+    │   │       │   │   │   └───ProductTableList
+    │   │       │   │   ├───email
+    │   │       │   │   ├───invoice
+    │   │       │   │   │   ├───Add-invoice
+    │   │       │   │   │   ├───Edit-invoice
+    │   │       │   │   │   ├───Invoice-detail
+    │   │       │   │   │   └───Invoice-list
+    │   │       │   │   ├───kanban
+    │   │       │   │   │   └───TaskModal
+    │   │       │   │   ├───notes
+    │   │       │   │   ├───tickets
+    │   │       │   │   └───userprofile
+    │   │       │   │       ├───followers
+    │   │       │   │       ├───friends
+    │   │       │   │       ├───gallery
+    │   │       │   │       └───profile
+    │   │       │   ├───container
+    │   │       │   ├───custom-scroll
+    │   │       │   ├───dashboards
+    │   │       │   │   ├───ecommerce
+    │   │       │   │   └───modern
+    │   │       │   ├───forms
+    │   │       │   │   ├───form-elements
+    │   │       │   │   │   ├───autoComplete
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───button
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───checkbox
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───date-time
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───radio
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───slider
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   └───switch
+    │   │       │   │   │       └───code
+    │   │       │   │   ├───form-horizontal
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-layouts
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-validation
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-vertical
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-wizard
+    │   │       │   │   │   └───code
+    │   │       │   │   └───theme-elements
+    │   │       │   ├───frontend-pages
+    │   │       │   │   ├───about
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   ├───key-metric
+    │   │       │   │   │   └───process
+    │   │       │   │   ├───blog
+    │   │       │   │   │   └───banner
+    │   │       │   │   ├───contact
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   └───form
+    │   │       │   │   ├───homepage
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   ├───defend-focus
+    │   │       │   │   │   ├───exceptional-feature
+    │   │       │   │   │   ├───faq
+    │   │       │   │   │   ├───features
+    │   │       │   │   │   └───powerful-dozens
+    │   │       │   │   ├───portfolio
+    │   │       │   │   ├───pricing
+    │   │       │   │   └───shared
+    │   │       │   │       ├───c2a
+    │   │       │   │       ├───footer
+    │   │       │   │       ├───header
+    │   │       │   │       ├───leadership
+    │   │       │   │       ├───pricing
+    │   │       │   │       ├───reviews
+    │   │       │   │       └───scroll-to-top
+    │   │       │   ├───landingpage
+    │   │       │   │   ├───animation
+    │   │       │   │   ├───banner
+    │   │       │   │   ├───c2a
+    │   │       │   │   ├───demo-slider
+    │   │       │   │   ├───features
+    │   │       │   │   ├───footer
+    │   │       │   │   ├───frameworks
+    │   │       │   │   ├───header
+    │   │       │   │   └───testimonial
+    │   │       │   ├───material-ui
+    │   │       │   │   ├───accordion
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───alert
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───avatar
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───chip
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───dialog
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───lists
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───popover
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───tabs
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───tooltip
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───transfer-list
+    │   │       │   │   │   └───code
+    │   │       │   │   └───typography
+    │   │       │   │       └───code
+    │   │       │   ├───muicharts
+    │   │       │   │   ├───barcharts
+    │   │       │   │   ├───code
+    │   │       │   │   │   ├───areachartscode
+    │   │       │   │   │   ├───barchartcode
+    │   │       │   │   │   ├───gaugechartscode
+    │   │       │   │   │   ├───linechartscode
+    │   │       │   │   │   ├───piechartcode
+    │   │       │   │   │   ├───scatterchartscode
+    │   │       │   │   │   └───sparklinecode
+    │   │       │   │   ├───gaugecharts
+    │   │       │   │   ├───linescharts
+    │   │       │   │   │   ├───areacharts
+    │   │       │   │   │   └───linechart
+    │   │       │   │   ├───piecharts
+    │   │       │   │   ├───scattercharts
+    │   │       │   │   └───sparklinecharts
+    │   │       │   ├───muitrees
+    │   │       │   │   ├───code
+    │   │       │   │   │   └───simpletreecode
+    │   │       │   │   └───simpletree
+    │   │       │   ├───pages
+    │   │       │   │   ├───account-setting
+    │   │       │   │   └───faq
+    │   │       │   ├───react-tables
+    │   │       │   │   ├───basic
+    │   │       │   │   ├───column-visiblity
+    │   │       │   │   ├───dense
+    │   │       │   │   ├───drag-drop
+    │   │       │   │   ├───editable
+    │   │       │   │   ├───empty
+    │   │       │   │   ├───expanding
+    │   │       │   │   ├───filter
+    │   │       │   │   ├───pagination
+    │   │       │   │   ├───row-selection
+    │   │       │   │   ├───sorting
+    │   │       │   │   └───sticky
+    │   │       │   ├───shared
+    │   │       │   ├───tables
+    │   │       │   │   └───code
+    │   │       │   └───widgets
+    │   │       │       ├───banners
+    │   │       │       │   └───code
+    │   │       │       ├───cards
+    │   │       │       │   └───code
+    │   │       │       └───charts
+    │   │       ├───context
+    │   │       │   ├───BlogContext
+    │   │       │   ├───ChatContext
+    │   │       │   ├───ConatactContext
+    │   │       │   ├───EcommerceContext
+    │   │       │   ├───EmailContext
+    │   │       │   ├───InvoiceContext
+    │   │       │   ├───kanbancontext
+    │   │       │   ├───NotesContext
+    │   │       │   ├───TicketContext
+    │   │       │   └───UserDataContext
+    │   │       ├───layouts
+    │   │       │   ├───blank
+    │   │       │   └───full
+    │   │       │       ├───horizontal
+    │   │       │       │   ├───header
+    │   │       │       │   └───navbar
+    │   │       │       │       ├───NavCollapse
+    │   │       │       │       ├───NavItem
+    │   │       │       │       └───NavListing
+    │   │       │       ├───shared
+    │   │       │       │   ├───breadcrumb
+    │   │       │       │   ├───customizer
+    │   │       │       │   ├───loadable
+    │   │       │       │   ├───logo
+    │   │       │       │   └───welcome
+    │   │       │       └───vertical
+    │   │       │           ├───header
+    │   │       │           └───sidebar
+    │   │       │               ├───NavCollapse
+    │   │       │               ├───NavGroup
+    │   │       │               ├───NavItem
+    │   │       │               └───SidebarProfile
+    │   │       ├───routes
+    │   │       ├───theme
+    │   │       ├───utils
+    │   │       │   └───languages
+    │   │       └───views
+    │   │           ├───apps
+    │   │           │   ├───blog
+    │   │           │   ├───calendar
+    │   │           │   ├───chat
+    │   │           │   ├───contacts
+    │   │           │   ├───eCommerce
+    │   │           │   ├───email
+    │   │           │   ├───invoice
+    │   │           │   ├───kanban
+    │   │           │   ├───notes
+    │   │           │   ├───tickets
+    │   │           │   └───user-profile
+    │   │           ├───authentication
+    │   │           │   ├───auth1
+    │   │           │   ├───auth2
+    │   │           │   └───authForms
+    │   │           ├───charts
+    │   │           ├───dashboard
+    │   │           ├───forms
+    │   │           │   ├───form-elements
+    │   │           │   └───from-tiptap
+    │   │           ├───mui-trees
+    │   │           │   └───simpletree
+    │   │           │       ├───simpletree-customization
+    │   │           │       ├───simpletree-expansion
+    │   │           │       ├───simpletree-focus
+    │   │           │       ├───simpletree-items
+    │   │           │       └───simpletree-selection
+    │   │           ├───muicharts
+    │   │           │   ├───barcharts
+    │   │           │   ├───gaugecharts
+    │   │           │   ├───linecharts
+    │   │           │   │   ├───area
+    │   │           │   │   └───line
+    │   │           │   ├───piecharts
+    │   │           │   ├───scattercharts
+    │   │           │   └───sparklinecharts
+    │   │           ├───pages
+    │   │           │   ├───account-setting
+    │   │           │   ├───faq
+    │   │           │   ├───frontend-pages
+    │   │           │   ├───landingpage
+    │   │           │   ├───pricing
+    │   │           │   └───rollbaseCASL
+    │   │           ├───react-tables
+    │   │           │   ├───basic
+    │   │           │   ├───columnvisibility
+    │   │           │   ├───dense
+    │   │           │   ├───drag-drop
+    │   │           │   ├───editable
+    │   │           │   ├───empty
+    │   │           │   ├───expanding
+    │   │           │   ├───filtering
+    │   │           │   ├───pagination
+    │   │           │   ├───row-selection
+    │   │           │   ├───sorting
+    │   │           │   └───sticky
+    │   │           ├───spinner
+    │   │           ├───tables
+    │   │           ├───ui-components
+    │   │           └───widgets
+    │   │               ├───banners
+    │   │               ├───cards
+    │   │               └───charts
+    │   ├───jwt-firebase
+    │   │   ├───public
+    │   │   └───src
+    │   │       ├───api
+    │   │       │   └───mocks
+    │   │       │       └───handlers
+    │   │       ├───assets
+    │   │       │   └───images
+    │   │       │       ├───backgrounds
+    │   │       │       ├───blog
+    │   │       │       ├───breadcrumb
+    │   │       │       ├───chat
+    │   │       │       ├───flag
+    │   │       │       ├───landingpage
+    │   │       │       │   ├───apps
+    │   │       │       │   ├───background
+    │   │       │       │   ├───demos
+    │   │       │       │   ├───frameworks
+    │   │       │       │   ├───profile
+    │   │       │       │   └───shape
+    │   │       │       ├───logos
+    │   │       │       ├───products
+    │   │       │       ├───profile
+    │   │       │       └───svgs
+    │   │       ├───components
+    │   │       │   ├───container
+    │   │       │   ├───custom-scroll
+    │   │       │   ├───forms
+    │   │       │   │   └───theme-elements
+    │   │       │   └───shared
+    │   │       ├───context
+    │   │       ├───guards
+    │   │       │   ├───auth
+    │   │       │   ├───authGuard
+    │   │       │   ├───firebase
+    │   │       │   ├───jwt
+    │   │       │   └───supabase
+    │   │       ├───layouts
+    │   │       │   ├───blank
+    │   │       │   └───full
+    │   │       │       ├───horizontal
+    │   │       │       │   ├───header
+    │   │       │       │   └───navbar
+    │   │       │       │       ├───NavCollapse
+    │   │       │       │       ├───NavItem
+    │   │       │       │       └───NavListing
+    │   │       │       ├───shared
+    │   │       │       │   ├───breadcrumb
+    │   │       │       │   ├───customizer
+    │   │       │       │   ├───loadable
+    │   │       │       │   ├───logo
+    │   │       │       │   └───welcome
+    │   │       │       └───vertical
+    │   │       │           ├───header
+    │   │       │           └───sidebar
+    │   │       │               ├───NavCollapse
+    │   │       │               ├───NavGroup
+    │   │       │               ├───NavItem
+    │   │       │               └───SidebarProfile
+    │   │       ├───routes
+    │   │       ├───theme
+    │   │       ├───utils
+    │   │       │   └───languages
+    │   │       └───views
+    │   │           ├───authentication
+    │   │           │   ├───auth1
+    │   │           │   ├───auth2
+    │   │           │   └───authForms
+    │   │           ├───sample-page
+    │   │           └───spinner
+    │   ├───main
+    │   │   ├───public
+    │   │   └───src
+    │   │       ├───api
+    │   │       │   ├───blog
+    │   │       │   ├───chat
+    │   │       │   ├───contacts
+    │   │       │   ├───eCommerce
+    │   │       │   ├───email
+    │   │       │   ├───invoice
+    │   │       │   ├───kanban
+    │   │       │   ├───language
+    │   │       │   ├───mocks
+    │   │       │   │   └───handlers
+    │   │       │   ├───notes
+    │   │       │   ├───ticket
+    │   │       │   └───userprofile
+    │   │       ├───assets
+    │   │       │   └───images
+    │   │       │       ├───backgrounds
+    │   │       │       ├───blog
+    │   │       │       ├───breadcrumb
+    │   │       │       ├───chat
+    │   │       │       ├───flag
+    │   │       │       ├───frontend-pages
+    │   │       │       │   ├───contact
+    │   │       │       │   ├───homepage
+    │   │       │       │   ├───icons
+    │   │       │       │   └───payments
+    │   │       │       ├───kanban
+    │   │       │       ├───landingpage
+    │   │       │       │   ├───apps
+    │   │       │       │   ├───background
+    │   │       │       │   ├───demos
+    │   │       │       │   ├───f-pages
+    │   │       │       │   ├───frameworks
+    │   │       │       │   ├───profile
+    │   │       │       │   └───shape
+    │   │       │       ├───logos
+    │   │       │       ├───products
+    │   │       │       ├───profile
+    │   │       │       └───svgs
+    │   │       ├───components
+    │   │       │   ├───apps
+    │   │       │   │   ├───blog
+    │   │       │   │   │   └───detail
+    │   │       │   │   ├───chats
+    │   │       │   │   ├───contacts
+    │   │       │   │   ├───ecommerce
+    │   │       │   │   │   ├───productAdd
+    │   │       │   │   │   ├───productCart
+    │   │       │   │   │   ├───productCheckout
+    │   │       │   │   │   ├───productDetail
+    │   │       │   │   │   ├───productEdit
+    │   │       │   │   │   ├───productGrid
+    │   │       │   │   │   └───ProductTableList
+    │   │       │   │   ├───email
+    │   │       │   │   ├───invoice
+    │   │       │   │   │   ├───Add-invoice
+    │   │       │   │   │   ├───Edit-invoice
+    │   │       │   │   │   ├───Invoice-detail
+    │   │       │   │   │   └───Invoice-list
+    │   │       │   │   ├───kanban
+    │   │       │   │   │   └───TaskModal
+    │   │       │   │   ├───notes
+    │   │       │   │   ├───tickets
+    │   │       │   │   └───userprofile
+    │   │       │   │       ├───followers
+    │   │       │   │       ├───friends
+    │   │       │   │       ├───gallery
+    │   │       │   │       └───profile
+    │   │       │   ├───container
+    │   │       │   ├───custom-scroll
+    │   │       │   ├───dashboards
+    │   │       │   │   ├───ecommerce
+    │   │       │   │   └───modern
+    │   │       │   ├───forms
+    │   │       │   │   ├───form-elements
+    │   │       │   │   │   ├───autoComplete
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───button
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───checkbox
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───date-time
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───radio
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───slider
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   └───switch
+    │   │       │   │   │       └───code
+    │   │       │   │   ├───form-horizontal
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-layouts
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-validation
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-vertical
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-wizard
+    │   │       │   │   │   └───code
+    │   │       │   │   └───theme-elements
+    │   │       │   ├───frontend-pages
+    │   │       │   │   ├───about
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   ├───key-metric
+    │   │       │   │   │   └───process
+    │   │       │   │   ├───blog
+    │   │       │   │   │   └───banner
+    │   │       │   │   ├───contact
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   └───form
+    │   │       │   │   ├───homepage
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   ├───defend-focus
+    │   │       │   │   │   ├───exceptional-feature
+    │   │       │   │   │   ├───faq
+    │   │       │   │   │   ├───features
+    │   │       │   │   │   └───powerful-dozens
+    │   │       │   │   ├───portfolio
+    │   │       │   │   ├───pricing
+    │   │       │   │   └───shared
+    │   │       │   │       ├───c2a
+    │   │       │   │       ├───footer
+    │   │       │   │       ├───header
+    │   │       │   │       ├───leadership
+    │   │       │   │       ├───pricing
+    │   │       │   │       ├───reviews
+    │   │       │   │       └───scroll-to-top
+    │   │       │   ├───landingpage
+    │   │       │   │   ├───animation
+    │   │       │   │   ├───banner
+    │   │       │   │   ├───c2a
+    │   │       │   │   ├───demo-slider
+    │   │       │   │   ├───features
+    │   │       │   │   ├───footer
+    │   │       │   │   ├───frameworks
+    │   │       │   │   ├───header
+    │   │       │   │   └───testimonial
+    │   │       │   ├───material-ui
+    │   │       │   │   ├───accordion
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───alert
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───avatar
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───chip
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───dialog
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───lists
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───popover
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───tabs
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───tooltip
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───transfer-list
+    │   │       │   │   │   └───code
+    │   │       │   │   └───typography
+    │   │       │   │       └───code
+    │   │       │   ├───muicharts
+    │   │       │   │   ├───barcharts
+    │   │       │   │   ├───code
+    │   │       │   │   │   ├───areachartscode
+    │   │       │   │   │   ├───barchartcode
+    │   │       │   │   │   ├───gaugechartscode
+    │   │       │   │   │   ├───linechartscode
+    │   │       │   │   │   ├───piechartcode
+    │   │       │   │   │   ├───scatterchartscode
+    │   │       │   │   │   └───sparklinecode
+    │   │       │   │   ├───gaugecharts
+    │   │       │   │   ├───linescharts
+    │   │       │   │   │   ├───areacharts
+    │   │       │   │   │   └───linechart
+    │   │       │   │   ├───piecharts
+    │   │       │   │   ├───scattercharts
+    │   │       │   │   └───sparklinecharts
+    │   │       │   ├───muitrees
+    │   │       │   │   ├───code
+    │   │       │   │   │   └───simpletreecode
+    │   │       │   │   └───simpletree
+    │   │       │   ├───pages
+    │   │       │   │   ├───account-setting
+    │   │       │   │   └───faq
+    │   │       │   ├───react-tables
+    │   │       │   │   ├───basic
+    │   │       │   │   ├───column-visiblity
+    │   │       │   │   ├───dense
+    │   │       │   │   ├───drag-drop
+    │   │       │   │   ├───editable
+    │   │       │   │   ├───empty
+    │   │       │   │   ├───expanding
+    │   │       │   │   ├───filter
+    │   │       │   │   ├───pagination
+    │   │       │   │   ├───row-selection
+    │   │       │   │   ├───sorting
+    │   │       │   │   └───sticky
+    │   │       │   ├───shared
+    │   │       │   ├───tables
+    │   │       │   │   └───code
+    │   │       │   └───widgets
+    │   │       │       ├───banners
+    │   │       │       │   └───code
+    │   │       │       ├───cards
+    │   │       │       │   └───code
+    │   │       │       └───charts
+    │   │       ├───context
+    │   │       │   ├───BlogContext
+    │   │       │   ├───ChatContext
+    │   │       │   ├───ConatactContext
+    │   │       │   ├───EcommerceContext
+    │   │       │   ├───EmailContext
+    │   │       │   ├───InvoiceContext
+    │   │       │   ├───kanbancontext
+    │   │       │   ├───NotesContext
+    │   │       │   ├───TicketContext
+    │   │       │   └───UserDataContext
+    │   │       ├───layouts
+    │   │       │   ├───blank
+    │   │       │   └───full
+    │   │       │       ├───horizontal
+    │   │       │       │   ├───header
+    │   │       │       │   └───navbar
+    │   │       │       │       ├───NavCollapse
+    │   │       │       │       ├───NavItem
+    │   │       │       │       └───NavListing
+    │   │       │       ├───shared
+    │   │       │       │   ├───breadcrumb
+    │   │       │       │   ├───customizer
+    │   │       │       │   ├───loadable
+    │   │       │       │   ├───logo
+    │   │       │       │   └───welcome
+    │   │       │       └───vertical
+    │   │       │           ├───header
+    │   │       │           └───sidebar
+    │   │       │               ├───NavCollapse
+    │   │       │               ├───NavGroup
+    │   │       │               ├───NavItem
+    │   │       │               └───SidebarProfile
+    │   │       ├───routes
+    │   │       ├───theme
+    │   │       ├───utils
+    │   │       │   └───languages
+    │   │       └───views
+    │   │           ├───apps
+    │   │           │   ├───blog
+    │   │           │   ├───calendar
+    │   │           │   ├───chat
+    │   │           │   ├───contacts
+    │   │           │   ├───eCommerce
+    │   │           │   ├───email
+    │   │           │   ├───invoice
+    │   │           │   ├───kanban
+    │   │           │   ├───notes
+    │   │           │   ├───tickets
+    │   │           │   └───user-profile
+    │   │           ├───authentication
+    │   │           │   ├───auth1
+    │   │           │   ├───auth2
+    │   │           │   └───authForms
+    │   │           ├───charts
+    │   │           ├───dashboard
+    │   │           ├───forms
+    │   │           │   ├───form-elements
+    │   │           │   └───from-tiptap
+    │   │           ├───mui-trees
+    │   │           │   └───simpletree
+    │   │           │       ├───simpletree-customization
+    │   │           │       ├───simpletree-expansion
+    │   │           │       ├───simpletree-focus
+    │   │           │       ├───simpletree-items
+    │   │           │       └───simpletree-selection
+    │   │           ├───muicharts
+    │   │           │   ├───barcharts
+    │   │           │   ├───gaugecharts
+    │   │           │   ├───linecharts
+    │   │           │   │   ├───area
+    │   │           │   │   └───line
+    │   │           │   ├───piecharts
+    │   │           │   ├───scattercharts
+    │   │           │   └───sparklinecharts
+    │   │           ├───pages
+    │   │           │   ├───account-setting
+    │   │           │   ├───faq
+    │   │           │   ├───frontend-pages
+    │   │           │   ├───landingpage
+    │   │           │   ├───pricing
+    │   │           │   └───rollbaseCASL
+    │   │           ├───react-tables
+    │   │           │   ├───basic
+    │   │           │   ├───columnvisibility
+    │   │           │   ├───dense
+    │   │           │   ├───drag-drop
+    │   │           │   ├───editable
+    │   │           │   ├───empty
+    │   │           │   ├───expanding
+    │   │           │   ├───filtering
+    │   │           │   ├───pagination
+    │   │           │   ├───row-selection
+    │   │           │   ├───sorting
+    │   │           │   └───sticky
+    │   │           ├───spinner
+    │   │           ├───tables
+    │   │           ├───ui-components
+    │   │           └───widgets
+    │   │               ├───banners
+    │   │               ├───cards
+    │   │               └───charts
+    │   ├───minisidebar
+    │   │   ├───public
+    │   │   └───src
+    │   │       ├───api
+    │   │       │   ├───blog
+    │   │       │   ├───chat
+    │   │       │   ├───contacts
+    │   │       │   ├───eCommerce
+    │   │       │   ├───email
+    │   │       │   ├───invoice
+    │   │       │   ├───kanban
+    │   │       │   ├───language
+    │   │       │   ├───mocks
+    │   │       │   │   └───handlers
+    │   │       │   ├───notes
+    │   │       │   ├───ticket
+    │   │       │   └───userprofile
+    │   │       ├───assets
+    │   │       │   └───images
+    │   │       │       ├───backgrounds
+    │   │       │       ├───blog
+    │   │       │       ├───breadcrumb
+    │   │       │       ├───chat
+    │   │       │       ├───flag
+    │   │       │       ├───frontend-pages
+    │   │       │       │   ├───contact
+    │   │       │       │   ├───homepage
+    │   │       │       │   ├───icons
+    │   │       │       │   └───payments
+    │   │       │       ├───kanban
+    │   │       │       ├───landingpage
+    │   │       │       │   ├───apps
+    │   │       │       │   ├───background
+    │   │       │       │   ├───demos
+    │   │       │       │   ├───f-pages
+    │   │       │       │   ├───frameworks
+    │   │       │       │   ├───profile
+    │   │       │       │   └───shape
+    │   │       │       ├───logos
+    │   │       │       ├───products
+    │   │       │       ├───profile
+    │   │       │       └───svgs
+    │   │       ├───components
+    │   │       │   ├───apps
+    │   │       │   │   ├───blog
+    │   │       │   │   │   └───detail
+    │   │       │   │   ├───chats
+    │   │       │   │   ├───contacts
+    │   │       │   │   ├───ecommerce
+    │   │       │   │   │   ├───productAdd
+    │   │       │   │   │   ├───productCart
+    │   │       │   │   │   ├───productCheckout
+    │   │       │   │   │   ├───productDetail
+    │   │       │   │   │   ├───productEdit
+    │   │       │   │   │   ├───productGrid
+    │   │       │   │   │   └───ProductTableList
+    │   │       │   │   ├───email
+    │   │       │   │   ├───invoice
+    │   │       │   │   │   ├───Add-invoice
+    │   │       │   │   │   ├───Edit-invoice
+    │   │       │   │   │   ├───Invoice-detail
+    │   │       │   │   │   └───Invoice-list
+    │   │       │   │   ├───kanban
+    │   │       │   │   │   └───TaskModal
+    │   │       │   │   ├───notes
+    │   │       │   │   ├───tickets
+    │   │       │   │   └───userprofile
+    │   │       │   │       ├───followers
+    │   │       │   │       ├───friends
+    │   │       │   │       ├───gallery
+    │   │       │   │       └───profile
+    │   │       │   ├───container
+    │   │       │   ├───custom-scroll
+    │   │       │   ├───dashboards
+    │   │       │   │   ├───ecommerce
+    │   │       │   │   └───modern
+    │   │       │   ├───forms
+    │   │       │   │   ├───form-elements
+    │   │       │   │   │   ├───autoComplete
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───button
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───checkbox
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───date-time
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───radio
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───slider
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   └───switch
+    │   │       │   │   │       └───code
+    │   │       │   │   ├───form-horizontal
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-layouts
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-validation
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-vertical
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-wizard
+    │   │       │   │   │   └───code
+    │   │       │   │   └───theme-elements
+    │   │       │   ├───frontend-pages
+    │   │       │   │   ├───about
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   ├───key-metric
+    │   │       │   │   │   └───process
+    │   │       │   │   ├───blog
+    │   │       │   │   │   └───banner
+    │   │       │   │   ├───contact
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   └───form
+    │   │       │   │   ├───homepage
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   ├───defend-focus
+    │   │       │   │   │   ├───exceptional-feature
+    │   │       │   │   │   ├───faq
+    │   │       │   │   │   ├───features
+    │   │       │   │   │   └───powerful-dozens
+    │   │       │   │   ├───portfolio
+    │   │       │   │   ├───pricing
+    │   │       │   │   └───shared
+    │   │       │   │       ├───c2a
+    │   │       │   │       ├───footer
+    │   │       │   │       ├───header
+    │   │       │   │       ├───leadership
+    │   │       │   │       ├───pricing
+    │   │       │   │       ├───reviews
+    │   │       │   │       └───scroll-to-top
+    │   │       │   ├───landingpage
+    │   │       │   │   ├───animation
+    │   │       │   │   ├───banner
+    │   │       │   │   ├───c2a
+    │   │       │   │   ├───demo-slider
+    │   │       │   │   ├───features
+    │   │       │   │   ├───footer
+    │   │       │   │   ├───frameworks
+    │   │       │   │   ├───header
+    │   │       │   │   └───testimonial
+    │   │       │   ├───material-ui
+    │   │       │   │   ├───accordion
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───alert
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───avatar
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───chip
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───dialog
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───lists
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───popover
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───tabs
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───tooltip
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───transfer-list
+    │   │       │   │   │   └───code
+    │   │       │   │   └───typography
+    │   │       │   │       └───code
+    │   │       │   ├───muicharts
+    │   │       │   │   ├───barcharts
+    │   │       │   │   ├───code
+    │   │       │   │   │   ├───areachartscode
+    │   │       │   │   │   ├───barchartcode
+    │   │       │   │   │   ├───gaugechartscode
+    │   │       │   │   │   ├───linechartscode
+    │   │       │   │   │   ├───piechartcode
+    │   │       │   │   │   ├───scatterchartscode
+    │   │       │   │   │   └───sparklinecode
+    │   │       │   │   ├───gaugecharts
+    │   │       │   │   ├───linescharts
+    │   │       │   │   │   ├───areacharts
+    │   │       │   │   │   └───linechart
+    │   │       │   │   ├───piecharts
+    │   │       │   │   ├───scattercharts
+    │   │       │   │   └───sparklinecharts
+    │   │       │   ├───muitrees
+    │   │       │   │   ├───code
+    │   │       │   │   │   └───simpletreecode
+    │   │       │   │   └───simpletree
+    │   │       │   ├───pages
+    │   │       │   │   ├───account-setting
+    │   │       │   │   └───faq
+    │   │       │   ├───react-tables
+    │   │       │   │   ├───basic
+    │   │       │   │   ├───column-visiblity
+    │   │       │   │   ├───dense
+    │   │       │   │   ├───drag-drop
+    │   │       │   │   ├───editable
+    │   │       │   │   ├───empty
+    │   │       │   │   ├───expanding
+    │   │       │   │   ├───filter
+    │   │       │   │   ├───pagination
+    │   │       │   │   ├───row-selection
+    │   │       │   │   ├───sorting
+    │   │       │   │   └───sticky
+    │   │       │   ├───shared
+    │   │       │   ├───tables
+    │   │       │   │   └───code
+    │   │       │   └───widgets
+    │   │       │       ├───banners
+    │   │       │       │   └───code
+    │   │       │       ├───cards
+    │   │       │       │   └───code
+    │   │       │       └───charts
+    │   │       ├───context
+    │   │       │   ├───BlogContext
+    │   │       │   ├───ChatContext
+    │   │       │   ├───ConatactContext
+    │   │       │   ├───EcommerceContext
+    │   │       │   ├───EmailContext
+    │   │       │   ├───InvoiceContext
+    │   │       │   ├───kanbancontext
+    │   │       │   ├───NotesContext
+    │   │       │   ├───TicketContext
+    │   │       │   └───UserDataContext
+    │   │       ├───layouts
+    │   │       │   ├───blank
+    │   │       │   └───full
+    │   │       │       ├───horizontal
+    │   │       │       │   ├───header
+    │   │       │       │   └───navbar
+    │   │       │       │       ├───NavCollapse
+    │   │       │       │       ├───NavItem
+    │   │       │       │       └───NavListing
+    │   │       │       ├───shared
+    │   │       │       │   ├───breadcrumb
+    │   │       │       │   ├───customizer
+    │   │       │       │   ├───loadable
+    │   │       │       │   ├───logo
+    │   │       │       │   └───welcome
+    │   │       │       └───vertical
+    │   │       │           ├───header
+    │   │       │           └───sidebar
+    │   │       │               ├───NavCollapse
+    │   │       │               ├───NavGroup
+    │   │       │               ├───NavItem
+    │   │       │               └───SidebarProfile
+    │   │       ├───routes
+    │   │       ├───theme
+    │   │       ├───utils
+    │   │       │   └───languages
+    │   │       └───views
+    │   │           ├───apps
+    │   │           │   ├───blog
+    │   │           │   ├───calendar
+    │   │           │   ├───chat
+    │   │           │   ├───contacts
+    │   │           │   ├───eCommerce
+    │   │           │   ├───email
+    │   │           │   ├───invoice
+    │   │           │   ├───kanban
+    │   │           │   ├───notes
+    │   │           │   ├───tickets
+    │   │           │   └───user-profile
+    │   │           ├───authentication
+    │   │           │   ├───auth1
+    │   │           │   ├───auth2
+    │   │           │   └───authForms
+    │   │           ├───charts
+    │   │           ├───dashboard
+    │   │           ├───forms
+    │   │           │   ├───form-elements
+    │   │           │   └───from-tiptap
+    │   │           ├───mui-trees
+    │   │           │   └───simpletree
+    │   │           │       ├───simpletree-customization
+    │   │           │       ├───simpletree-expansion
+    │   │           │       ├───simpletree-focus
+    │   │           │       ├───simpletree-items
+    │   │           │       └───simpletree-selection
+    │   │           ├───muicharts
+    │   │           │   ├───barcharts
+    │   │           │   ├───gaugecharts
+    │   │           │   ├───linecharts
+    │   │           │   │   ├───area
+    │   │           │   │   └───line
+    │   │           │   ├───piecharts
+    │   │           │   ├───scattercharts
+    │   │           │   └───sparklinecharts
+    │   │           ├───pages
+    │   │           │   ├───account-setting
+    │   │           │   ├───faq
+    │   │           │   ├───frontend-pages
+    │   │           │   ├───landingpage
+    │   │           │   ├───pricing
+    │   │           │   └───rollbaseCASL
+    │   │           ├───react-tables
+    │   │           │   ├───basic
+    │   │           │   ├───columnvisibility
+    │   │           │   ├───dense
+    │   │           │   ├───drag-drop
+    │   │           │   ├───editable
+    │   │           │   ├───empty
+    │   │           │   ├───expanding
+    │   │           │   ├───filtering
+    │   │           │   ├───pagination
+    │   │           │   ├───row-selection
+    │   │           │   ├───sorting
+    │   │           │   └───sticky
+    │   │           ├───spinner
+    │   │           ├───tables
+    │   │           ├───ui-components
+    │   │           └───widgets
+    │   │               ├───banners
+    │   │               ├───cards
+    │   │               └───charts
+    │   ├───rtl
+    │   │   ├───public
+    │   │   └───src
+    │   │       ├───api
+    │   │       │   ├───blog
+    │   │       │   ├───chat
+    │   │       │   ├───contacts
+    │   │       │   ├───eCommerce
+    │   │       │   ├───email
+    │   │       │   ├───invoice
+    │   │       │   ├───kanban
+    │   │       │   ├───language
+    │   │       │   ├───mocks
+    │   │       │   │   └───handlers
+    │   │       │   ├───notes
+    │   │       │   ├───ticket
+    │   │       │   └───userprofile
+    │   │       ├───assets
+    │   │       │   └───images
+    │   │       │       ├───backgrounds
+    │   │       │       ├───blog
+    │   │       │       ├───breadcrumb
+    │   │       │       ├───chat
+    │   │       │       ├───flag
+    │   │       │       ├───frontend-pages
+    │   │       │       │   ├───contact
+    │   │       │       │   ├───homepage
+    │   │       │       │   ├───icons
+    │   │       │       │   └───payments
+    │   │       │       ├───kanban
+    │   │       │       ├───landingpage
+    │   │       │       │   ├───apps
+    │   │       │       │   ├───background
+    │   │       │       │   ├───demos
+    │   │       │       │   ├───f-pages
+    │   │       │       │   ├───frameworks
+    │   │       │       │   ├───profile
+    │   │       │       │   └───shape
+    │   │       │       ├───logos
+    │   │       │       ├───products
+    │   │       │       ├───profile
+    │   │       │       └───svgs
+    │   │       ├───components
+    │   │       │   ├───apps
+    │   │       │   │   ├───blog
+    │   │       │   │   │   └───detail
+    │   │       │   │   ├───chats
+    │   │       │   │   ├───contacts
+    │   │       │   │   ├───ecommerce
+    │   │       │   │   │   ├───productAdd
+    │   │       │   │   │   ├───productCart
+    │   │       │   │   │   ├───productCheckout
+    │   │       │   │   │   ├───productDetail
+    │   │       │   │   │   ├───productEdit
+    │   │       │   │   │   ├───productGrid
+    │   │       │   │   │   └───ProductTableList
+    │   │       │   │   ├───email
+    │   │       │   │   ├───invoice
+    │   │       │   │   │   ├───Add-invoice
+    │   │       │   │   │   ├───Edit-invoice
+    │   │       │   │   │   ├───Invoice-detail
+    │   │       │   │   │   └───Invoice-list
+    │   │       │   │   ├───kanban
+    │   │       │   │   │   └───TaskModal
+    │   │       │   │   ├───notes
+    │   │       │   │   ├───tickets
+    │   │       │   │   └───userprofile
+    │   │       │   │       ├───followers
+    │   │       │   │       ├───friends
+    │   │       │   │       ├───gallery
+    │   │       │   │       └───profile
+    │   │       │   ├───container
+    │   │       │   ├───custom-scroll
+    │   │       │   ├───dashboards
+    │   │       │   │   ├───ecommerce
+    │   │       │   │   └───modern
+    │   │       │   ├───forms
+    │   │       │   │   ├───form-elements
+    │   │       │   │   │   ├───autoComplete
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───button
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───checkbox
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───date-time
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───radio
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   ├───slider
+    │   │       │   │   │   │   └───code
+    │   │       │   │   │   └───switch
+    │   │       │   │   │       └───code
+    │   │       │   │   ├───form-horizontal
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-layouts
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-validation
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-vertical
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───form-wizard
+    │   │       │   │   │   └───code
+    │   │       │   │   └───theme-elements
+    │   │       │   ├───frontend-pages
+    │   │       │   │   ├───about
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   ├───key-metric
+    │   │       │   │   │   └───process
+    │   │       │   │   ├───blog
+    │   │       │   │   │   └───banner
+    │   │       │   │   ├───contact
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   └───form
+    │   │       │   │   ├───homepage
+    │   │       │   │   │   ├───banner
+    │   │       │   │   │   ├───defend-focus
+    │   │       │   │   │   ├───exceptional-feature
+    │   │       │   │   │   ├───faq
+    │   │       │   │   │   ├───features
+    │   │       │   │   │   └───powerful-dozens
+    │   │       │   │   ├───portfolio
+    │   │       │   │   ├───pricing
+    │   │       │   │   └───shared
+    │   │       │   │       ├───c2a
+    │   │       │   │       ├───footer
+    │   │       │   │       ├───header
+    │   │       │   │       ├───leadership
+    │   │       │   │       ├───pricing
+    │   │       │   │       ├───reviews
+    │   │       │   │       └───scroll-to-top
+    │   │       │   ├───landingpage
+    │   │       │   │   ├───animation
+    │   │       │   │   ├───banner
+    │   │       │   │   ├───c2a
+    │   │       │   │   ├───demo-slider
+    │   │       │   │   ├───features
+    │   │       │   │   ├───footer
+    │   │       │   │   ├───frameworks
+    │   │       │   │   ├───header
+    │   │       │   │   └───testimonial
+    │   │       │   ├───material-ui
+    │   │       │   │   ├───accordion
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───alert
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───avatar
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───chip
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───dialog
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───lists
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───popover
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───tabs
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───tooltip
+    │   │       │   │   │   └───code
+    │   │       │   │   ├───transfer-list
+    │   │       │   │   │   └───code
+    │   │       │   │   └───typography
+    │   │       │   │       └───code
+    │   │       │   ├───muicharts
+    │   │       │   │   ├───barcharts
+    │   │       │   │   ├───code
+    │   │       │   │   │   ├───areachartscode
+    │   │       │   │   │   ├───barchartcode
+    │   │       │   │   │   ├───gaugechartscode
+    │   │       │   │   │   ├───linechartscode
+    │   │       │   │   │   ├───piechartcode
+    │   │       │   │   │   ├───scatterchartscode
+    │   │       │   │   │   └───sparklinecode
+    │   │       │   │   ├───gaugecharts
+    │   │       │   │   ├───linescharts
+    │   │       │   │   │   ├───areacharts
+    │   │       │   │   │   └───linechart
+    │   │       │   │   ├───piecharts
+    │   │       │   │   ├───scattercharts
+    │   │       │   │   └───sparklinecharts
+    │   │       │   ├───muitrees
+    │   │       │   │   ├───code
+    │   │       │   │   │   └───simpletreecode
+    │   │       │   │   └───simpletree
+    │   │       │   ├───pages
+    │   │       │   │   ├───account-setting
+    │   │       │   │   └───faq
+    │   │       │   ├───react-tables
+    │   │       │   │   ├───basic
+    │   │       │   │   ├───column-visiblity
+    │   │       │   │   ├───dense
+    │   │       │   │   ├───drag-drop
+    │   │       │   │   ├───editable
+    │   │       │   │   ├───empty
+    │   │       │   │   ├───expanding
+    │   │       │   │   ├───filter
+    │   │       │   │   ├───pagination
+    │   │       │   │   ├───row-selection
+    │   │       │   │   ├───sorting
+    │   │       │   │   └───sticky
+    │   │       │   ├───shared
+    │   │       │   ├───tables
+    │   │       │   │   └───code
+    │   │       │   └───widgets
+    │   │       │       ├───banners
+    │   │       │       │   └───code
+    │   │       │       ├───cards
+    │   │       │       │   └───code
+    │   │       │       └───charts
+    │   │       ├───context
+    │   │       │   ├───BlogContext
+    │   │       │   ├───ChatContext
+    │   │       │   ├───ConatactContext
+    │   │       │   ├───EcommerceContext
+    │   │       │   ├───EmailContext
+    │   │       │   ├───InvoiceContext
+    │   │       │   ├───kanbancontext
+    │   │       │   ├───NotesContext
+    │   │       │   ├───TicketContext
+    │   │       │   └───UserDataContext
+    │   │       ├───layouts
+    │   │       │   ├───blank
+    │   │       │   └───full
+    │   │       │       ├───horizontal
+    │   │       │       │   ├───header
+    │   │       │       │   └───navbar
+    │   │       │       │       ├───NavCollapse
+    │   │       │       │       ├───NavItem
+    │   │       │       │       └───NavListing
+    │   │       │       ├───shared
+    │   │       │       │   ├───breadcrumb
+    │   │       │       │   ├───customizer
+    │   │       │       │   ├───loadable
+    │   │       │       │   ├───logo
+    │   │       │       │   └───welcome
+    │   │       │       └───vertical
+    │   │       │           ├───header
+    │   │       │           └───sidebar
+    │   │       │               ├───NavCollapse
+    │   │       │               ├───NavGroup
+    │   │       │               ├───NavItem
+    │   │       │               └───SidebarProfile
+    │   │       ├───routes
+    │   │       ├───theme
+    │   │       ├───utils
+    │   │       │   └───languages
+    │   │       └───views
+    │   │           ├───apps
+    │   │           │   ├───blog
+    │   │           │   ├───calendar
+    │   │           │   ├───chat
+    │   │           │   ├───contacts
+    │   │           │   ├───eCommerce
+    │   │           │   ├───email
+    │   │           │   ├───invoice
+    │   │           │   ├───kanban
+    │   │           │   ├───notes
+    │   │           │   ├───tickets
+    │   │           │   └───user-profile
+    │   │           ├───authentication
+    │   │           │   ├───auth1
+    │   │           │   ├───auth2
+    │   │           │   └───authForms
+    │   │           ├───charts
+    │   │           ├───dashboard
+    │   │           ├───forms
+    │   │           │   ├───form-elements
+    │   │           │   └───from-tiptap
+    │   │           ├───mui-trees
+    │   │           │   └───simpletree
+    │   │           │       ├───simpletree-customization
+    │   │           │       ├───simpletree-expansion
+    │   │           │       ├───simpletree-focus
+    │   │           │       ├───simpletree-items
+    │   │           │       └───simpletree-selection
+    │   │           ├───muicharts
+    │   │           │   ├───barcharts
+    │   │           │   ├───gaugecharts
+    │   │           │   ├───linecharts
+    │   │           │   │   ├───area
+    │   │           │   │   └───line
+    │   │           │   ├───piecharts
+    │   │           │   ├───scattercharts
+    │   │           │   └───sparklinecharts
+    │   │           ├───pages
+    │   │           │   ├───account-setting
+    │   │           │   ├───faq
+    │   │           │   ├───frontend-pages
+    │   │           │   ├───landingpage
+    │   │           │   ├───pricing
+    │   │           │   └───rollbaseCASL
+    │   │           ├───react-tables
+    │   │           │   ├───basic
+    │   │           │   ├───columnvisibility
+    │   │           │   ├───dense
+    │   │           │   ├───drag-drop
+    │   │           │   ├───editable
+    │   │           │   ├───empty
+    │   │           │   ├───expanding
+    │   │           │   ├───filtering
+    │   │           │   ├───pagination
+    │   │           │   ├───row-selection
+    │   │           │   ├───sorting
+    │   │           │   └───sticky
+    │   │           ├───spinner
+    │   │           ├───tables
+    │   │           ├───ui-components
+    │   │           └───widgets
+    │   │               ├───banners
+    │   │               ├───cards
+    │   │               └───charts
+    │   └───starterkit
+    │       ├───public
+    │       └───src
+    │           ├───assets
+    │           │   └───images
+    │           │       ├───backgrounds
+    │           │       ├───breadcrumb
+    │           │       ├───flag
+    │           │       ├───logos
+    │           │       ├───products
+    │           │       ├───profile
+    │           │       └───svgs
+    │           ├───components
+    │           │   ├───container
+    │           │   ├───custom-scroll
+    │           │   └───shared
+    │           ├───context
+    │           ├───layouts
+    │           │   ├───blank
+    │           │   └───full
+    │           │       ├───horizontal
+    │           │       │   ├───header
+    │           │       │   └───navbar
+    │           │       │       ├───NavCollapse
+    │           │       │       ├───NavItem
+    │           │       │       └───NavListing
+    │           │       ├───shared
+    │           │       │   ├───breadcrumb
+    │           │       │   ├───customizer
+    │           │       │   ├───loadable
+    │           │       │   ├───logo
+    │           │       │   └───welcome
+    │           │       └───vertical
+    │           │           ├───header
+    │           │           └───sidebar
+    │           │               ├───NavCollapse
+    │           │               ├───NavGroup
+    │           │               ├───NavItem
+    │           │               └───SidebarProfile
+    │           ├───routes
+    │           ├───theme
+    │           ├───utils
+    │           │   └───languages
+    │           └───views
+    │               ├───authentication
+    │               ├───sample-page
+    │               └───spinner
+    └───typescript
+        ├───dark
+        │   ├───public
+        │   └───src
+        │       ├───api
+        │       │   ├───blog
+        │       │   ├───chat
+        │       │   ├───contacts
+        │       │   ├───eCommerce
+        │       │   ├───email
+        │       │   ├───invoice
+        │       │   ├───kanban
+        │       │   ├───language
+        │       │   ├───mocks
+        │       │   │   └───handlers
+        │       │   ├───notes
+        │       │   ├───ticket
+        │       │   └───userprofile
+        │       ├───assets
+        │       │   └───images
+        │       │       ├───backgrounds
+        │       │       ├───blog
+        │       │       ├───breadcrumb
+        │       │       ├───chat
+        │       │       ├───flag
+        │       │       ├───frontend-pages
+        │       │       │   ├───contact
+        │       │       │   ├───homepage
+        │       │       │   ├───icons
+        │       │       │   └───payments
+        │       │       ├───kanban
+        │       │       ├───landingpage
+        │       │       │   ├───apps
+        │       │       │   ├───background
+        │       │       │   ├───demos
+        │       │       │   ├───f-pages
+        │       │       │   ├───frameworks
+        │       │       │   ├───profile
+        │       │       │   └───shape
+        │       │       ├───logos
+        │       │       ├───products
+        │       │       ├───profile
+        │       │       └───svgs
+        │       ├───components
+        │       │   ├───apps
+        │       │   │   ├───blog
+        │       │   │   │   └───detail
+        │       │   │   ├───chats
+        │       │   │   ├───contacts
+        │       │   │   ├───ecommerce
+        │       │   │   │   ├───productAdd
+        │       │   │   │   ├───productCart
+        │       │   │   │   ├───productCheckout
+        │       │   │   │   ├───productDetail
+        │       │   │   │   ├───productEdit
+        │       │   │   │   ├───productGrid
+        │       │   │   │   └───ProductTableList
+        │       │   │   ├───email
+        │       │   │   ├───invoice
+        │       │   │   │   ├───Add-invoice
+        │       │   │   │   ├───Edit-invoice
+        │       │   │   │   ├───Invoice-detail
+        │       │   │   │   └───Invoice-list
+        │       │   │   ├───kanban
+        │       │   │   │   └───TaskModal
+        │       │   │   ├───notes
+        │       │   │   ├───tickets
+        │       │   │   └───userprofile
+        │       │   │       ├───followers
+        │       │   │       ├───friends
+        │       │   │       ├───gallery
+        │       │   │       └───profile
+        │       │   ├───charts
+        │       │   │   ├───Area Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Candlestick Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Column Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Doughnut Charts
+        │       │   │   │   └───code
+        │       │   │   ├───Gradient Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Line Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Pie Charts
+        │       │   │   │   └───code
+        │       │   │   ├───Radar Charts
+        │       │   │   │   └───code
+        │       │   │   └───Radialbar Charts
+        │       │   │       └───code
+        │       │   ├───container
+        │       │   ├───custom-scroll
+        │       │   ├───dashboards
+        │       │   │   ├───ecommerce
+        │       │   │   └───modern
+        │       │   ├───forms
+        │       │   │   ├───form-custom
+        │       │   │   │   └───code
+        │       │   │   ├───form-elements
+        │       │   │   │   ├───autoComplete
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───button
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───checkbox
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───date-time
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───radio
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───slider
+        │       │   │   │   │   └───code
+        │       │   │   │   └───switch
+        │       │   │   │       └───code
+        │       │   │   ├───form-horizontal
+        │       │   │   │   └───code
+        │       │   │   ├───form-layouts
+        │       │   │   │   └───code
+        │       │   │   ├───form-validation
+        │       │   │   │   └───code
+        │       │   │   ├───form-vertical
+        │       │   │   │   └───code
+        │       │   │   ├───form-wizard
+        │       │   │   │   └───code
+        │       │   │   └───theme-elements
+        │       │   ├───frontend-pages
+        │       │   │   ├───about
+        │       │   │   │   ├───banner
+        │       │   │   │   ├───key-metric
+        │       │   │   │   └───process
+        │       │   │   ├───blog
+        │       │   │   │   └───banner
+        │       │   │   ├───contact
+        │       │   │   │   ├───banner
+        │       │   │   │   └───form
+        │       │   │   ├───homepage
+        │       │   │   │   ├───banner
+        │       │   │   │   ├───defend-focus
+        │       │   │   │   ├───exceptional-feature
+        │       │   │   │   ├───faq
+        │       │   │   │   ├───features
+        │       │   │   │   └───powerful-dozens
+        │       │   │   ├───portfolio
+        │       │   │   ├───pricing
+        │       │   │   └───shared
+        │       │   │       ├───c2a
+        │       │   │       ├───footer
+        │       │   │       ├───header
+        │       │   │       ├───leadership
+        │       │   │       ├───pricing
+        │       │   │       ├───reviews
+        │       │   │       └───scroll-to-top
+        │       │   ├───landingpage
+        │       │   │   ├───animation
+        │       │   │   ├───banner
+        │       │   │   ├───c2a
+        │       │   │   ├───demo-slider
+        │       │   │   ├───features
+        │       │   │   ├───footer
+        │       │   │   ├───frameworks
+        │       │   │   ├───header
+        │       │   │   └───testimonial
+        │       │   ├───material-ui
+        │       │   │   ├───accordion
+        │       │   │   │   └───code
+        │       │   │   ├───alert
+        │       │   │   │   └───code
+        │       │   │   ├───avatar
+        │       │   │   │   └───code
+        │       │   │   ├───chip
+        │       │   │   │   └───code
+        │       │   │   ├───dialog
+        │       │   │   │   └───code
+        │       │   │   ├───lists
+        │       │   │   │   └───code
+        │       │   │   ├───popover
+        │       │   │   │   └───code
+        │       │   │   ├───tabs
+        │       │   │   │   └───code
+        │       │   │   ├───tooltip
+        │       │   │   │   └───code
+        │       │   │   ├───transfer-list
+        │       │   │   │   └───code
+        │       │   │   └───typography
+        │       │   │       └───code
+        │       │   ├───muicharts
+        │       │   │   ├───barcharts
+        │       │   │   ├───code
+        │       │   │   │   ├───areachartscode
+        │       │   │   │   ├───barchartcode
+        │       │   │   │   ├───gaugechartscode
+        │       │   │   │   ├───linechartscode
+        │       │   │   │   ├───piechartcode
+        │       │   │   │   ├───scatterchartscode
+        │       │   │   │   └───sparklinecode
+        │       │   │   ├───gaugecharts
+        │       │   │   ├───linescharts
+        │       │   │   │   ├───areacharts
+        │       │   │   │   └───linechart
+        │       │   │   ├───piecharts
+        │       │   │   ├───scattercharts
+        │       │   │   └───sparklinecharts
+        │       │   ├───muitrees
+        │       │   │   ├───code
+        │       │   │   │   └───simpletreecode
+        │       │   │   └───simpletree
+        │       │   ├───pages
+        │       │   │   ├───account-setting
+        │       │   │   └───faq
+        │       │   ├───react-tables
+        │       │   │   ├───basic
+        │       │   │   ├───column-visiblity
+        │       │   │   ├───dense
+        │       │   │   ├───drag-drop
+        │       │   │   ├───editable
+        │       │   │   ├───empty
+        │       │   │   ├───expanding
+        │       │   │   ├───filter
+        │       │   │   ├───pagination
+        │       │   │   ├───row-selection
+        │       │   │   ├───sorting
+        │       │   │   └───sticky
+        │       │   ├───shared
+        │       │   ├───tables
+        │       │   │   └───code
+        │       │   └───widgets
+        │       │       ├───banners
+        │       │       │   └───code
+        │       │       ├───cards
+        │       │       │   └───code
+        │       │       └───charts
+        │       ├───context
+        │       │   ├───BlogContext
+        │       │   ├───ChatContext
+        │       │   ├───ConatactContext
+        │       │   ├───EcommerceContext
+        │       │   ├───EmailContext
+        │       │   ├───InvoiceContext
+        │       │   ├───kanbancontext
+        │       │   ├───NotesContext
+        │       │   ├───TicketContext
+        │       │   └───UserDataContext
+        │       ├───layouts
+        │       │   ├───blank
+        │       │   └───full
+        │       │       ├───horizontal
+        │       │       │   ├───header
+        │       │       │   └───navbar
+        │       │       │       ├───NavCollapse
+        │       │       │       ├───NavItem
+        │       │       │       └───NavListing
+        │       │       ├───shared
+        │       │       │   ├───breadcrumb
+        │       │       │   ├───customizer
+        │       │       │   ├───loadable
+        │       │       │   ├───logo
+        │       │       │   └───welcome
+        │       │       └───vertical
+        │       │           ├───header
+        │       │           └───sidebar
+        │       │               ├───NavCollapse
+        │       │               ├───NavGroup
+        │       │               ├───NavItem
+        │       │               └───SidebarProfile
+        │       ├───routes
+        │       ├───theme
+        │       ├───types
+        │       │   ├───apps
+        │       │   ├───auth
+        │       │   └───layout
+        │       ├───utils
+        │       │   └───languages
+        │       └───views
+        │           ├───apps
+        │           │   ├───blog
+        │           │   ├───calendar
+        │           │   ├───chat
+        │           │   ├───contacts
+        │           │   ├───eCommerce
+        │           │   ├───email
+        │           │   ├───invoice
+        │           │   ├───kanban
+        │           │   ├───notes
+        │           │   ├───tickets
+        │           │   └───user-profile
+        │           ├───authentication
+        │           │   ├───auth1
+        │           │   ├───auth2
+        │           │   └───authForms
+        │           ├───charts
+        │           ├───dashboard
+        │           ├───forms
+        │           │   ├───form-elements
+        │           │   └───from-tiptap
+        │           ├───mui-trees
+        │           │   └───simpletree
+        │           │       ├───simpletree-customization
+        │           │       ├───simpletree-expansion
+        │           │       ├───simpletree-focus
+        │           │       ├───simpletree-items
+        │           │       └───simpletree-selection
+        │           ├───muicharts
+        │           │   ├───barcharts
+        │           │   ├───gaugecharts
+        │           │   ├───linecharts
+        │           │   │   ├───area
+        │           │   │   └───line
+        │           │   ├───piecharts
+        │           │   ├───scattercharts
+        │           │   └───sparklinecharts
+        │           ├───pages
+        │           │   ├───account-setting
+        │           │   ├───faq
+        │           │   ├───frontend-pages
+        │           │   ├───landingpage
+        │           │   ├───pricing
+        │           │   └───rollbaseCASL
+        │           ├───react-tables
+        │           │   ├───basic
+        │           │   ├───columnvisibility
+        │           │   ├───dense
+        │           │   ├───drag-drop
+        │           │   ├───editable
+        │           │   ├───empty
+        │           │   ├───expanding
+        │           │   ├───filtering
+        │           │   ├───pagination
+        │           │   ├───row-selection
+        │           │   ├───sorting
+        │           │   └───sticky
+        │           ├───spinner
+        │           ├───tables
+        │           ├───ui-components
+        │           └───widgets
+        │               ├───banners
+        │               ├───cards
+        │               └───charts
+        ├───horizontal
+        │   ├───public
+        │   └───src
+        │       ├───api
+        │       │   ├───blog
+        │       │   ├───chat
+        │       │   ├───contacts
+        │       │   ├───eCommerce
+        │       │   ├───email
+        │       │   ├───invoice
+        │       │   ├───kanban
+        │       │   ├───language
+        │       │   ├───mocks
+        │       │   │   └───handlers
+        │       │   ├───notes
+        │       │   ├───ticket
+        │       │   └───userprofile
+        │       ├───assets
+        │       │   └───images
+        │       │       ├───backgrounds
+        │       │       ├───blog
+        │       │       ├───breadcrumb
+        │       │       ├───chat
+        │       │       ├───flag
+        │       │       ├───frontend-pages
+        │       │       │   ├───contact
+        │       │       │   ├───homepage
+        │       │       │   ├───icons
+        │       │       │   └───payments
+        │       │       ├───kanban
+        │       │       ├───landingpage
+        │       │       │   ├───apps
+        │       │       │   ├───background
+        │       │       │   ├───demos
+        │       │       │   ├───f-pages
+        │       │       │   ├───frameworks
+        │       │       │   ├───profile
+        │       │       │   └───shape
+        │       │       ├───logos
+        │       │       ├───products
+        │       │       ├───profile
+        │       │       └───svgs
+        │       ├───components
+        │       │   ├───apps
+        │       │   │   ├───blog
+        │       │   │   │   └───detail
+        │       │   │   ├───chats
+        │       │   │   ├───contacts
+        │       │   │   ├───ecommerce
+        │       │   │   │   ├───productAdd
+        │       │   │   │   ├───productCart
+        │       │   │   │   ├───productCheckout
+        │       │   │   │   ├───productDetail
+        │       │   │   │   ├───productEdit
+        │       │   │   │   ├───productGrid
+        │       │   │   │   └───ProductTableList
+        │       │   │   ├───email
+        │       │   │   ├───invoice
+        │       │   │   │   ├───Add-invoice
+        │       │   │   │   ├───Edit-invoice
+        │       │   │   │   ├───Invoice-detail
+        │       │   │   │   └───Invoice-list
+        │       │   │   ├───kanban
+        │       │   │   │   └───TaskModal
+        │       │   │   ├───notes
+        │       │   │   ├───tickets
+        │       │   │   └───userprofile
+        │       │   │       ├───followers
+        │       │   │       ├───friends
+        │       │   │       ├───gallery
+        │       │   │       └───profile
+        │       │   ├───charts
+        │       │   │   ├───Area Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Candlestick Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Column Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Doughnut Charts
+        │       │   │   │   └───code
+        │       │   │   ├───Gradient Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Line Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Pie Charts
+        │       │   │   │   └───code
+        │       │   │   ├───Radar Charts
+        │       │   │   │   └───code
+        │       │   │   └───Radialbar Charts
+        │       │   │       └───code
+        │       │   ├───container
+        │       │   ├───custom-scroll
+        │       │   ├───dashboards
+        │       │   │   ├───ecommerce
+        │       │   │   └───modern
+        │       │   ├───forms
+        │       │   │   ├───form-custom
+        │       │   │   │   └───code
+        │       │   │   ├───form-elements
+        │       │   │   │   ├───autoComplete
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───button
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───checkbox
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───date-time
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───radio
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───slider
+        │       │   │   │   │   └───code
+        │       │   │   │   └───switch
+        │       │   │   │       └───code
+        │       │   │   ├───form-horizontal
+        │       │   │   │   └───code
+        │       │   │   ├───form-layouts
+        │       │   │   │   └───code
+        │       │   │   ├───form-validation
+        │       │   │   │   └───code
+        │       │   │   ├───form-vertical
+        │       │   │   │   └───code
+        │       │   │   ├───form-wizard
+        │       │   │   │   └───code
+        │       │   │   └───theme-elements
+        │       │   ├───frontend-pages
+        │       │   │   ├───about
+        │       │   │   │   ├───banner
+        │       │   │   │   ├───key-metric
+        │       │   │   │   └───process
+        │       │   │   ├───blog
+        │       │   │   │   └───banner
+        │       │   │   ├───contact
+        │       │   │   │   ├───banner
+        │       │   │   │   └───form
+        │       │   │   ├───homepage
+        │       │   │   │   ├───banner
+        │       │   │   │   ├───defend-focus
+        │       │   │   │   ├───exceptional-feature
+        │       │   │   │   ├───faq
+        │       │   │   │   ├───features
+        │       │   │   │   └───powerful-dozens
+        │       │   │   ├───portfolio
+        │       │   │   ├───pricing
+        │       │   │   └───shared
+        │       │   │       ├───c2a
+        │       │   │       ├───footer
+        │       │   │       ├───header
+        │       │   │       ├───leadership
+        │       │   │       ├───pricing
+        │       │   │       ├───reviews
+        │       │   │       └───scroll-to-top
+        │       │   ├───landingpage
+        │       │   │   ├───animation
+        │       │   │   ├───banner
+        │       │   │   ├───c2a
+        │       │   │   ├───demo-slider
+        │       │   │   ├───features
+        │       │   │   ├───footer
+        │       │   │   ├───frameworks
+        │       │   │   ├───header
+        │       │   │   └───testimonial
+        │       │   ├───material-ui
+        │       │   │   ├───accordion
+        │       │   │   │   └───code
+        │       │   │   ├───alert
+        │       │   │   │   └───code
+        │       │   │   ├───avatar
+        │       │   │   │   └───code
+        │       │   │   ├───chip
+        │       │   │   │   └───code
+        │       │   │   ├───dialog
+        │       │   │   │   └───code
+        │       │   │   ├───lists
+        │       │   │   │   └───code
+        │       │   │   ├───popover
+        │       │   │   │   └───code
+        │       │   │   ├───tabs
+        │       │   │   │   └───code
+        │       │   │   ├───tooltip
+        │       │   │   │   └───code
+        │       │   │   ├───transfer-list
+        │       │   │   │   └───code
+        │       │   │   └───typography
+        │       │   │       └───code
+        │       │   ├───muicharts
+        │       │   │   ├───barcharts
+        │       │   │   ├───code
+        │       │   │   │   ├───areachartscode
+        │       │   │   │   ├───barchartcode
+        │       │   │   │   ├───gaugechartscode
+        │       │   │   │   ├───linechartscode
+        │       │   │   │   ├───piechartcode
+        │       │   │   │   ├───scatterchartscode
+        │       │   │   │   └───sparklinecode
+        │       │   │   ├───gaugecharts
+        │       │   │   ├───linescharts
+        │       │   │   │   ├───areacharts
+        │       │   │   │   └───linechart
+        │       │   │   ├───piecharts
+        │       │   │   ├───scattercharts
+        │       │   │   └───sparklinecharts
+        │       │   ├───muitrees
+        │       │   │   ├───code
+        │       │   │   │   └───simpletreecode
+        │       │   │   └───simpletree
+        │       │   ├───pages
+        │       │   │   ├───account-setting
+        │       │   │   └───faq
+        │       │   ├───react-tables
+        │       │   │   ├───basic
+        │       │   │   ├───column-visiblity
+        │       │   │   ├───dense
+        │       │   │   ├───drag-drop
+        │       │   │   ├───editable
+        │       │   │   ├───empty
+        │       │   │   ├───expanding
+        │       │   │   ├───filter
+        │       │   │   ├───pagination
+        │       │   │   ├───row-selection
+        │       │   │   ├───sorting
+        │       │   │   └───sticky
+        │       │   ├───shared
+        │       │   ├───tables
+        │       │   │   └───code
+        │       │   └───widgets
+        │       │       ├───banners
+        │       │       │   └───code
+        │       │       ├───cards
+        │       │       │   └───code
+        │       │       └───charts
+        │       ├───context
+        │       │   ├───BlogContext
+        │       │   ├───ChatContext
+        │       │   ├───ConatactContext
+        │       │   ├───EcommerceContext
+        │       │   ├───EmailContext
+        │       │   ├───InvoiceContext
+        │       │   ├───kanbancontext
+        │       │   ├───NotesContext
+        │       │   ├───TicketContext
+        │       │   └───UserDataContext
+        │       ├───layouts
+        │       │   ├───blank
+        │       │   └───full
+        │       │       ├───horizontal
+        │       │       │   ├───header
+        │       │       │   └───navbar
+        │       │       │       ├───NavCollapse
+        │       │       │       ├───NavItem
+        │       │       │       └───NavListing
+        │       │       ├───shared
+        │       │       │   ├───breadcrumb
+        │       │       │   ├───customizer
+        │       │       │   ├───loadable
+        │       │       │   ├───logo
+        │       │       │   └───welcome
+        │       │       └───vertical
+        │       │           ├───header
+        │       │           └───sidebar
+        │       │               ├───NavCollapse
+        │       │               ├───NavGroup
+        │       │               ├───NavItem
+        │       │               └───SidebarProfile
+        │       ├───routes
+        │       ├───theme
+        │       ├───types
+        │       │   ├───apps
+        │       │   ├───auth
+        │       │   └───layout
+        │       ├───utils
+        │       │   └───languages
+        │       └───views
+        │           ├───apps
+        │           │   ├───blog
+        │           │   ├───calendar
+        │           │   ├───chat
+        │           │   ├───contacts
+        │           │   ├───eCommerce
+        │           │   ├───email
+        │           │   ├───invoice
+        │           │   ├───kanban
+        │           │   ├───notes
+        │           │   ├───tickets
+        │           │   └───user-profile
+        │           ├───authentication
+        │           │   ├───auth1
+        │           │   ├───auth2
+        │           │   └───authForms
+        │           ├───charts
+        │           ├───dashboard
+        │           ├───forms
+        │           │   ├───form-elements
+        │           │   └───from-tiptap
+        │           ├───mui-trees
+        │           │   └───simpletree
+        │           │       ├───simpletree-customization
+        │           │       ├───simpletree-expansion
+        │           │       ├───simpletree-focus
+        │           │       ├───simpletree-items
+        │           │       └───simpletree-selection
+        │           ├───muicharts
+        │           │   ├───barcharts
+        │           │   ├───gaugecharts
+        │           │   ├───linecharts
+        │           │   │   ├───area
+        │           │   │   └───line
+        │           │   ├───piecharts
+        │           │   ├───scattercharts
+        │           │   └───sparklinecharts
+        │           ├───pages
+        │           │   ├───account-setting
+        │           │   ├───faq
+        │           │   ├───frontend-pages
+        │           │   ├───landingpage
+        │           │   ├───pricing
+        │           │   └───rollbaseCASL
+        │           ├───react-tables
+        │           │   ├───basic
+        │           │   ├───columnvisibility
+        │           │   ├───dense
+        │           │   ├───drag-drop
+        │           │   ├───editable
+        │           │   ├───empty
+        │           │   ├───expanding
+        │           │   ├───filtering
+        │           │   ├───pagination
+        │           │   ├───row-selection
+        │           │   ├───sorting
+        │           │   └───sticky
+        │           ├───spinner
+        │           ├───tables
+        │           ├───ui-components
+        │           └───widgets
+        │               ├───banners
+        │               ├───cards
+        │               └───charts
+        ├───jwt-firebase
+        │   ├───public
+        │   └───src
+        │       ├───api
+        │       │   └───mocks
+        │       │       └───handlers
+        │       ├───assets
+        │       │   └───images
+        │       │       ├───backgrounds
+        │       │       ├───breadcrumb
+        │       │       ├───flag
+        │       │       ├───logos
+        │       │       ├───products
+        │       │       ├───profile
+        │       │       └───svgs
+        │       ├───components
+        │       │   ├───container
+        │       │   ├───custom-scroll
+        │       │   ├───forms
+        │       │   │   ├───form-elements
+        │       │   │   │   ├───autoComplete
+        │       │   │   │   ├───button
+        │       │   │   │   ├───checkbox
+        │       │   │   │   ├───radio
+        │       │   │   │   └───switch
+        │       │   │   └───theme-elements
+        │       │   └───shared
+        │       ├───context
+        │       ├───guards
+        │       │   ├───auth
+        │       │   ├───authGuard
+        │       │   ├───firebase
+        │       │   ├───jwt
+        │       │   └───supabase
+        │       ├───layouts
+        │       │   ├───blank
+        │       │   └───full
+        │       │       ├───horizontal
+        │       │       │   ├───header
+        │       │       │   └───navbar
+        │       │       │       ├───NavCollapse
+        │       │       │       ├───NavItem
+        │       │       │       └───NavListing
+        │       │       ├───shared
+        │       │       │   ├───breadcrumb
+        │       │       │   ├───customizer
+        │       │       │   ├───loadable
+        │       │       │   ├───logo
+        │       │       │   └───welcome
+        │       │       └───vertical
+        │       │           ├───header
+        │       │           └───sidebar
+        │       │               ├───NavCollapse
+        │       │               ├───NavGroup
+        │       │               ├───NavItem
+        │       │               └───SidebarProfile
+        │       ├───routes
+        │       ├───theme
+        │       ├───types
+        │       │   └───auth
+        │       ├───utils
+        │       │   └───languages
+        │       └───views
+        │           ├───authentication
+        │           │   ├───auth1
+        │           │   ├───auth2
+        │           │   └───authForms
+        │           ├───sample-page
+        │           └───spinner
+        ├───main
+        │   ├───public
+        │   └───src
+        │       ├───api
+        │       │   ├───blog
+        │       │   ├───chat
+        │       │   ├───contacts
+        │       │   ├───eCommerce
+        │       │   ├───email
+        │       │   ├───invoice
+        │       │   ├───kanban
+        │       │   ├───language
+        │       │   ├───mocks
+        │       │   │   └───handlers
+        │       │   ├───notes
+        │       │   ├───ticket
+        │       │   └───userprofile
+        │       ├───assets
+        │       │   └───images
+        │       │       ├───backgrounds
+        │       │       ├───blog
+        │       │       ├───breadcrumb
+        │       │       ├───chat
+        │       │       ├───flag
+        │       │       ├───frontend-pages
+        │       │       │   ├───contact
+        │       │       │   ├───homepage
+        │       │       │   ├───icons
+        │       │       │   └───payments
+        │       │       ├───kanban
+        │       │       ├───landingpage
+        │       │       │   ├───apps
+        │       │       │   ├───background
+        │       │       │   ├───demos
+        │       │       │   ├───f-pages
+        │       │       │   ├───frameworks
+        │       │       │   ├───profile
+        │       │       │   └───shape
+        │       │       ├───logos
+        │       │       ├───products
+        │       │       ├───profile
+        │       │       └───svgs
+        │       ├───components
+        │       │   ├───apps
+        │       │   │   ├───blog
+        │       │   │   │   └───detail
+        │       │   │   ├───chats
+        │       │   │   ├───contacts
+        │       │   │   ├───ecommerce
+        │       │   │   │   ├───productAdd
+        │       │   │   │   ├───productCart
+        │       │   │   │   ├───productCheckout
+        │       │   │   │   ├───productDetail
+        │       │   │   │   ├───productEdit
+        │       │   │   │   ├───productGrid
+        │       │   │   │   └───ProductTableList
+        │       │   │   ├───email
+        │       │   │   ├───invoice
+        │       │   │   │   ├───Add-invoice
+        │       │   │   │   ├───Edit-invoice
+        │       │   │   │   ├───Invoice-detail
+        │       │   │   │   └───Invoice-list
+        │       │   │   ├───kanban
+        │       │   │   │   └───TaskModal
+        │       │   │   ├───notes
+        │       │   │   ├───tickets
+        │       │   │   └───userprofile
+        │       │   │       ├───followers
+        │       │   │       ├───friends
+        │       │   │       ├───gallery
+        │       │   │       └───profile
+        │       │   ├───charts
+        │       │   │   ├───Area Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Candlestick Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Column Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Doughnut Charts
+        │       │   │   │   └───code
+        │       │   │   ├───Gradient Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Line Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Pie Charts
+        │       │   │   │   └───code
+        │       │   │   ├───Radar Charts
+        │       │   │   │   └───code
+        │       │   │   └───Radialbar Charts
+        │       │   │       └───code
+        │       │   ├───container
+        │       │   ├───custom-scroll
+        │       │   ├───dashboards
+        │       │   │   ├───ecommerce
+        │       │   │   └───modern
+        │       │   ├───forms
+        │       │   │   ├───form-custom
+        │       │   │   │   └───code
+        │       │   │   ├───form-elements
+        │       │   │   │   ├───autoComplete
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───button
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───checkbox
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───date-time
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───radio
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───slider
+        │       │   │   │   │   └───code
+        │       │   │   │   └───switch
+        │       │   │   │       └───code
+        │       │   │   ├───form-horizontal
+        │       │   │   │   └───code
+        │       │   │   ├───form-layouts
+        │       │   │   │   └───code
+        │       │   │   ├───form-validation
+        │       │   │   │   └───code
+        │       │   │   ├───form-vertical
+        │       │   │   │   └───code
+        │       │   │   ├───form-wizard
+        │       │   │   │   └───code
+        │       │   │   └───theme-elements
+        │       │   ├───frontend-pages
+        │       │   │   ├───about
+        │       │   │   │   ├───banner
+        │       │   │   │   ├───key-metric
+        │       │   │   │   └───process
+        │       │   │   ├───blog
+        │       │   │   │   └───banner
+        │       │   │   ├───contact
+        │       │   │   │   ├───banner
+        │       │   │   │   └───form
+        │       │   │   ├───homepage
+        │       │   │   │   ├───banner
+        │       │   │   │   ├───defend-focus
+        │       │   │   │   ├───exceptional-feature
+        │       │   │   │   ├───faq
+        │       │   │   │   ├───features
+        │       │   │   │   └───powerful-dozens
+        │       │   │   ├───portfolio
+        │       │   │   ├───pricing
+        │       │   │   └───shared
+        │       │   │       ├───c2a
+        │       │   │       ├───footer
+        │       │   │       ├───header
+        │       │   │       ├───leadership
+        │       │   │       ├───pricing
+        │       │   │       ├───reviews
+        │       │   │       └───scroll-to-top
+        │       │   ├───landingpage
+        │       │   │   ├───animation
+        │       │   │   ├───banner
+        │       │   │   ├───c2a
+        │       │   │   ├───demo-slider
+        │       │   │   ├───features
+        │       │   │   ├───footer
+        │       │   │   ├───frameworks
+        │       │   │   ├───header
+        │       │   │   └───testimonial
+        │       │   ├───material-ui
+        │       │   │   ├───accordion
+        │       │   │   │   └───code
+        │       │   │   ├───alert
+        │       │   │   │   └───code
+        │       │   │   ├───avatar
+        │       │   │   │   └───code
+        │       │   │   ├───chip
+        │       │   │   │   └───code
+        │       │   │   ├───dialog
+        │       │   │   │   └───code
+        │       │   │   ├───lists
+        │       │   │   │   └───code
+        │       │   │   ├───popover
+        │       │   │   │   └───code
+        │       │   │   ├───tabs
+        │       │   │   │   └───code
+        │       │   │   ├───tooltip
+        │       │   │   │   └───code
+        │       │   │   ├───transfer-list
+        │       │   │   │   └───code
+        │       │   │   └───typography
+        │       │   │       └───code
+        │       │   ├───muicharts
+        │       │   │   ├───barcharts
+        │       │   │   ├───code
+        │       │   │   │   ├───areachartscode
+        │       │   │   │   ├───barchartcode
+        │       │   │   │   ├───gaugechartscode
+        │       │   │   │   ├───linechartscode
+        │       │   │   │   ├───piechartcode
+        │       │   │   │   ├───scatterchartscode
+        │       │   │   │   └───sparklinecode
+        │       │   │   ├───gaugecharts
+        │       │   │   ├───linescharts
+        │       │   │   │   ├───areacharts
+        │       │   │   │   └───linechart
+        │       │   │   ├───piecharts
+        │       │   │   ├───scattercharts
+        │       │   │   └───sparklinecharts
+        │       │   ├───muitrees
+        │       │   │   ├───code
+        │       │   │   │   └───simpletreecode
+        │       │   │   └───simpletree
+        │       │   ├───pages
+        │       │   │   ├───account-setting
+        │       │   │   └───faq
+        │       │   ├───react-tables
+        │       │   │   ├───basic
+        │       │   │   ├───column-visiblity
+        │       │   │   ├───dense
+        │       │   │   ├───drag-drop
+        │       │   │   ├───editable
+        │       │   │   ├───empty
+        │       │   │   ├───expanding
+        │       │   │   ├───filter
+        │       │   │   ├───pagination
+        │       │   │   ├───row-selection
+        │       │   │   ├───sorting
+        │       │   │   └───sticky
+        │       │   ├───shared
+        │       │   ├───tables
+        │       │   │   └───code
+        │       │   └───widgets
+        │       │       ├───banners
+        │       │       │   └───code
+        │       │       ├───cards
+        │       │       │   └───code
+        │       │       └───charts
+        │       ├───context
+        │       │   ├───BlogContext
+        │       │   ├───ChatContext
+        │       │   ├───ConatactContext
+        │       │   ├───EcommerceContext
+        │       │   ├───EmailContext
+        │       │   ├───InvoiceContext
+        │       │   ├───kanbancontext
+        │       │   ├───NotesContext
+        │       │   ├───TicketContext
+        │       │   └───UserDataContext
+        │       ├───layouts
+        │       │   ├───blank
+        │       │   └───full
+        │       │       ├───horizontal
+        │       │       │   ├───header
+        │       │       │   └───navbar
+        │       │       │       ├───NavCollapse
+        │       │       │       ├───NavItem
+        │       │       │       └───NavListing
+        │       │       ├───shared
+        │       │       │   ├───breadcrumb
+        │       │       │   ├───customizer
+        │       │       │   ├───loadable
+        │       │       │   ├───logo
+        │       │       │   └───welcome
+        │       │       └───vertical
+        │       │           ├───header
+        │       │           └───sidebar
+        │       │               ├───NavCollapse
+        │       │               ├───NavGroup
+        │       │               ├───NavItem
+        │       │               └───SidebarProfile
+        │       ├───routes
+        │       ├───theme
+        │       ├───types
+        │       │   ├───apps
+        │       │   ├───auth
+        │       │   └───layout
+        │       ├───utils
+        │       │   └───languages
+        │       └───views
+        │           ├───apps
+        │           │   ├───blog
+        │           │   ├───calendar
+        │           │   ├───chat
+        │           │   ├───contacts
+        │           │   ├───eCommerce
+        │           │   ├───email
+        │           │   ├───invoice
+        │           │   ├───kanban
+        │           │   ├───notes
+        │           │   ├───tickets
+        │           │   └───user-profile
+        │           ├───authentication
+        │           │   ├───auth1
+        │           │   ├───auth2
+        │           │   └───authForms
+        │           ├───charts
+        │           ├───dashboard
+        │           ├───forms
+        │           │   ├───form-elements
+        │           │   └───from-tiptap
+        │           ├───mui-trees
+        │           │   └───simpletree
+        │           │       ├───simpletree-customization
+        │           │       ├───simpletree-expansion
+        │           │       ├───simpletree-focus
+        │           │       ├───simpletree-items
+        │           │       └───simpletree-selection
+        │           ├───muicharts
+        │           │   ├───barcharts
+        │           │   ├───gaugecharts
+        │           │   ├───linecharts
+        │           │   │   ├───area
+        │           │   │   └───line
+        │           │   ├───piecharts
+        │           │   ├───scattercharts
+        │           │   └───sparklinecharts
+        │           ├───pages
+        │           │   ├───account-setting
+        │           │   ├───faq
+        │           │   ├───frontend-pages
+        │           │   ├───landingpage
+        │           │   ├───pricing
+        │           │   └───rollbaseCASL
+        │           ├───react-tables
+        │           │   ├───basic
+        │           │   ├───columnvisibility
+        │           │   ├───dense
+        │           │   ├───drag-drop
+        │           │   ├───editable
+        │           │   ├───empty
+        │           │   ├───expanding
+        │           │   ├───filtering
+        │           │   ├───pagination
+        │           │   ├───row-selection
+        │           │   ├───sorting
+        │           │   └───sticky
+        │           ├───spinner
+        │           ├───tables
+        │           ├───ui-components
+        │           └───widgets
+        │               ├───banners
+        │               ├───cards
+        │               └───charts
+        ├───minisidebar
+        │   ├───public
+        │   └───src
+        │       ├───api
+        │       │   ├───blog
+        │       │   ├───chat
+        │       │   ├───contacts
+        │       │   ├───eCommerce
+        │       │   ├───email
+        │       │   ├───invoice
+        │       │   ├───kanban
+        │       │   ├───language
+        │       │   ├───mocks
+        │       │   │   └───handlers
+        │       │   ├───notes
+        │       │   ├───ticket
+        │       │   └───userprofile
+        │       ├───assets
+        │       │   └───images
+        │       │       ├───backgrounds
+        │       │       ├───blog
+        │       │       ├───breadcrumb
+        │       │       ├───chat
+        │       │       ├───flag
+        │       │       ├───frontend-pages
+        │       │       │   ├───contact
+        │       │       │   ├───homepage
+        │       │       │   ├───icons
+        │       │       │   └───payments
+        │       │       ├───kanban
+        │       │       ├───landingpage
+        │       │       │   ├───apps
+        │       │       │   ├───background
+        │       │       │   ├───demos
+        │       │       │   ├───f-pages
+        │       │       │   ├───frameworks
+        │       │       │   ├───profile
+        │       │       │   └───shape
+        │       │       ├───logos
+        │       │       ├───products
+        │       │       ├───profile
+        │       │       └───svgs
+        │       ├───components
+        │       │   ├───apps
+        │       │   │   ├───blog
+        │       │   │   │   └───detail
+        │       │   │   ├───chats
+        │       │   │   ├───contacts
+        │       │   │   ├───ecommerce
+        │       │   │   │   ├───productAdd
+        │       │   │   │   ├───productCart
+        │       │   │   │   ├───productCheckout
+        │       │   │   │   ├───productDetail
+        │       │   │   │   ├───productEdit
+        │       │   │   │   ├───productGrid
+        │       │   │   │   └───ProductTableList
+        │       │   │   ├───email
+        │       │   │   ├───invoice
+        │       │   │   │   ├───Add-invoice
+        │       │   │   │   ├───Edit-invoice
+        │       │   │   │   ├───Invoice-detail
+        │       │   │   │   └───Invoice-list
+        │       │   │   ├───kanban
+        │       │   │   │   └───TaskModal
+        │       │   │   ├───notes
+        │       │   │   ├───tickets
+        │       │   │   └───userprofile
+        │       │   │       ├───followers
+        │       │   │       ├───friends
+        │       │   │       ├───gallery
+        │       │   │       └───profile
+        │       │   ├───charts
+        │       │   │   ├───Area Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Candlestick Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Column Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Doughnut Charts
+        │       │   │   │   └───code
+        │       │   │   ├───Gradient Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Line Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Pie Charts
+        │       │   │   │   └───code
+        │       │   │   ├───Radar Charts
+        │       │   │   │   └───code
+        │       │   │   └───Radialbar Charts
+        │       │   │       └───code
+        │       │   ├───container
+        │       │   ├───custom-scroll
+        │       │   ├───dashboards
+        │       │   │   ├───ecommerce
+        │       │   │   └───modern
+        │       │   ├───forms
+        │       │   │   ├───form-custom
+        │       │   │   │   └───code
+        │       │   │   ├───form-elements
+        │       │   │   │   ├───autoComplete
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───button
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───checkbox
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───date-time
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───radio
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───slider
+        │       │   │   │   │   └───code
+        │       │   │   │   └───switch
+        │       │   │   │       └───code
+        │       │   │   ├───form-horizontal
+        │       │   │   │   └───code
+        │       │   │   ├───form-layouts
+        │       │   │   │   └───code
+        │       │   │   ├───form-validation
+        │       │   │   │   └───code
+        │       │   │   ├───form-vertical
+        │       │   │   │   └───code
+        │       │   │   ├───form-wizard
+        │       │   │   │   └───code
+        │       │   │   └───theme-elements
+        │       │   ├───frontend-pages
+        │       │   │   ├───about
+        │       │   │   │   ├───banner
+        │       │   │   │   ├───key-metric
+        │       │   │   │   └───process
+        │       │   │   ├───blog
+        │       │   │   │   └───banner
+        │       │   │   ├───contact
+        │       │   │   │   ├───banner
+        │       │   │   │   └───form
+        │       │   │   ├───homepage
+        │       │   │   │   ├───banner
+        │       │   │   │   ├───defend-focus
+        │       │   │   │   ├───exceptional-feature
+        │       │   │   │   ├───faq
+        │       │   │   │   ├───features
+        │       │   │   │   └───powerful-dozens
+        │       │   │   ├───portfolio
+        │       │   │   ├───pricing
+        │       │   │   └───shared
+        │       │   │       ├───c2a
+        │       │   │       ├───footer
+        │       │   │       ├───header
+        │       │   │       ├───leadership
+        │       │   │       ├───pricing
+        │       │   │       ├───reviews
+        │       │   │       └───scroll-to-top
+        │       │   ├───landingpage
+        │       │   │   ├───animation
+        │       │   │   ├───banner
+        │       │   │   ├───c2a
+        │       │   │   ├───demo-slider
+        │       │   │   ├───features
+        │       │   │   ├───footer
+        │       │   │   ├───frameworks
+        │       │   │   ├───header
+        │       │   │   └───testimonial
+        │       │   ├───material-ui
+        │       │   │   ├───accordion
+        │       │   │   │   └───code
+        │       │   │   ├───alert
+        │       │   │   │   └───code
+        │       │   │   ├───avatar
+        │       │   │   │   └───code
+        │       │   │   ├───chip
+        │       │   │   │   └───code
+        │       │   │   ├───dialog
+        │       │   │   │   └───code
+        │       │   │   ├───lists
+        │       │   │   │   └───code
+        │       │   │   ├───popover
+        │       │   │   │   └───code
+        │       │   │   ├───tabs
+        │       │   │   │   └───code
+        │       │   │   ├───tooltip
+        │       │   │   │   └───code
+        │       │   │   ├───transfer-list
+        │       │   │   │   └───code
+        │       │   │   └───typography
+        │       │   │       └───code
+        │       │   ├───muicharts
+        │       │   │   ├───barcharts
+        │       │   │   ├───code
+        │       │   │   │   ├───areachartscode
+        │       │   │   │   ├───barchartcode
+        │       │   │   │   ├───gaugechartscode
+        │       │   │   │   ├───linechartscode
+        │       │   │   │   ├───piechartcode
+        │       │   │   │   ├───scatterchartscode
+        │       │   │   │   └───sparklinecode
+        │       │   │   ├───gaugecharts
+        │       │   │   ├───linescharts
+        │       │   │   │   ├───areacharts
+        │       │   │   │   └───linechart
+        │       │   │   ├───piecharts
+        │       │   │   ├───scattercharts
+        │       │   │   └───sparklinecharts
+        │       │   ├───muitrees
+        │       │   │   ├───code
+        │       │   │   │   └───simpletreecode
+        │       │   │   └───simpletree
+        │       │   ├───pages
+        │       │   │   ├───account-setting
+        │       │   │   └───faq
+        │       │   ├───react-tables
+        │       │   │   ├───basic
+        │       │   │   ├───column-visiblity
+        │       │   │   ├───dense
+        │       │   │   ├───drag-drop
+        │       │   │   ├───editable
+        │       │   │   ├───empty
+        │       │   │   ├───expanding
+        │       │   │   ├───filter
+        │       │   │   ├───pagination
+        │       │   │   ├───row-selection
+        │       │   │   ├───sorting
+        │       │   │   └───sticky
+        │       │   ├───shared
+        │       │   ├───tables
+        │       │   │   └───code
+        │       │   └───widgets
+        │       │       ├───banners
+        │       │       │   └───code
+        │       │       ├───cards
+        │       │       │   └───code
+        │       │       └───charts
+        │       ├───context
+        │       │   ├───BlogContext
+        │       │   ├───ChatContext
+        │       │   ├───ConatactContext
+        │       │   ├───EcommerceContext
+        │       │   ├───EmailContext
+        │       │   ├───InvoiceContext
+        │       │   ├───kanbancontext
+        │       │   ├───NotesContext
+        │       │   ├───TicketContext
+        │       │   └───UserDataContext
+        │       ├───layouts
+        │       │   ├───blank
+        │       │   └───full
+        │       │       ├───horizontal
+        │       │       │   ├───header
+        │       │       │   └───navbar
+        │       │       │       ├───NavCollapse
+        │       │       │       ├───NavItem
+        │       │       │       └───NavListing
+        │       │       ├───shared
+        │       │       │   ├───breadcrumb
+        │       │       │   ├───customizer
+        │       │       │   ├───loadable
+        │       │       │   ├───logo
+        │       │       │   └───welcome
+        │       │       └───vertical
+        │       │           ├───header
+        │       │           └───sidebar
+        │       │               ├───NavCollapse
+        │       │               ├───NavGroup
+        │       │               ├───NavItem
+        │       │               └───SidebarProfile
+        │       ├───routes
+        │       ├───theme
+        │       ├───types
+        │       │   ├───apps
+        │       │   ├───auth
+        │       │   └───layout
+        │       ├───utils
+        │       │   └───languages
+        │       └───views
+        │           ├───apps
+        │           │   ├───blog
+        │           │   ├───calendar
+        │           │   ├───chat
+        │           │   ├───contacts
+        │           │   ├───eCommerce
+        │           │   ├───email
+        │           │   ├───invoice
+        │           │   ├───kanban
+        │           │   ├───notes
+        │           │   ├───tickets
+        │           │   └───user-profile
+        │           ├───authentication
+        │           │   ├───auth1
+        │           │   ├───auth2
+        │           │   └───authForms
+        │           ├───charts
+        │           ├───dashboard
+        │           ├───forms
+        │           │   ├───form-elements
+        │           │   └───from-tiptap
+        │           ├───mui-trees
+        │           │   └───simpletree
+        │           │       ├───simpletree-customization
+        │           │       ├───simpletree-expansion
+        │           │       ├───simpletree-focus
+        │           │       ├───simpletree-items
+        │           │       └───simpletree-selection
+        │           ├───muicharts
+        │           │   ├───barcharts
+        │           │   ├───gaugecharts
+        │           │   ├───linecharts
+        │           │   │   ├───area
+        │           │   │   └───line
+        │           │   ├───piecharts
+        │           │   ├───scattercharts
+        │           │   └───sparklinecharts
+        │           ├───pages
+        │           │   ├───account-setting
+        │           │   ├───faq
+        │           │   ├───frontend-pages
+        │           │   ├───landingpage
+        │           │   ├───pricing
+        │           │   └───rollbaseCASL
+        │           ├───react-tables
+        │           │   ├───basic
+        │           │   ├───columnvisibility
+        │           │   ├───dense
+        │           │   ├───drag-drop
+        │           │   ├───editable
+        │           │   ├───empty
+        │           │   ├───expanding
+        │           │   ├───filtering
+        │           │   ├───pagination
+        │           │   ├───row-selection
+        │           │   ├───sorting
+        │           │   └───sticky
+        │           ├───spinner
+        │           ├───tables
+        │           ├───ui-components
+        │           └───widgets
+        │               ├───banners
+        │               ├───cards
+        │               └───charts
+        ├───rtl
+        │   ├───public
+        │   └───src
+        │       ├───api
+        │       │   ├───blog
+        │       │   ├───chat
+        │       │   ├───contacts
+        │       │   ├───eCommerce
+        │       │   ├───email
+        │       │   ├───invoice
+        │       │   ├───kanban
+        │       │   ├───language
+        │       │   ├───mocks
+        │       │   │   └───handlers
+        │       │   ├───notes
+        │       │   ├───ticket
+        │       │   └───userprofile
+        │       ├───assets
+        │       │   └───images
+        │       │       ├───backgrounds
+        │       │       ├───blog
+        │       │       ├───breadcrumb
+        │       │       ├───chat
+        │       │       ├───flag
+        │       │       ├───frontend-pages
+        │       │       │   ├───contact
+        │       │       │   ├───homepage
+        │       │       │   ├───icons
+        │       │       │   └───payments
+        │       │       ├───kanban
+        │       │       ├───landingpage
+        │       │       │   ├───apps
+        │       │       │   ├───background
+        │       │       │   ├───demos
+        │       │       │   ├───f-pages
+        │       │       │   ├───frameworks
+        │       │       │   ├───profile
+        │       │       │   └───shape
+        │       │       ├───logos
+        │       │       ├───products
+        │       │       ├───profile
+        │       │       └───svgs
+        │       ├───components
+        │       │   ├───apps
+        │       │   │   ├───blog
+        │       │   │   │   └───detail
+        │       │   │   ├───chats
+        │       │   │   ├───contacts
+        │       │   │   ├───ecommerce
+        │       │   │   │   ├───productAdd
+        │       │   │   │   ├───productCart
+        │       │   │   │   ├───productCheckout
+        │       │   │   │   ├───productDetail
+        │       │   │   │   ├───productEdit
+        │       │   │   │   ├───productGrid
+        │       │   │   │   └───ProductTableList
+        │       │   │   ├───email
+        │       │   │   ├───invoice
+        │       │   │   │   ├───Add-invoice
+        │       │   │   │   ├───Edit-invoice
+        │       │   │   │   ├───Invoice-detail
+        │       │   │   │   └───Invoice-list
+        │       │   │   ├───kanban
+        │       │   │   │   └───TaskModal
+        │       │   │   ├───notes
+        │       │   │   ├───tickets
+        │       │   │   └───userprofile
+        │       │   │       ├───followers
+        │       │   │       ├───friends
+        │       │   │       ├───gallery
+        │       │   │       └───profile
+        │       │   ├───charts
+        │       │   │   ├───Area Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Candlestick Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Column Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Doughnut Charts
+        │       │   │   │   └───code
+        │       │   │   ├───Gradient Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Line Chart
+        │       │   │   │   └───code
+        │       │   │   ├───Pie Charts
+        │       │   │   │   └───code
+        │       │   │   ├───Radar Charts
+        │       │   │   │   └───code
+        │       │   │   └───Radialbar Charts
+        │       │   │       └───code
+        │       │   ├───container
+        │       │   ├───custom-scroll
+        │       │   ├───dashboards
+        │       │   │   ├───ecommerce
+        │       │   │   └───modern
+        │       │   ├───forms
+        │       │   │   ├───form-custom
+        │       │   │   │   └───code
+        │       │   │   ├───form-elements
+        │       │   │   │   ├───autoComplete
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───button
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───checkbox
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───date-time
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───radio
+        │       │   │   │   │   └───code
+        │       │   │   │   ├───slider
+        │       │   │   │   │   └───code
+        │       │   │   │   └───switch
+        │       │   │   │       └───code
+        │       │   │   ├───form-horizontal
+        │       │   │   │   └───code
+        │       │   │   ├───form-layouts
+        │       │   │   │   └───code
+        │       │   │   ├───form-validation
+        │       │   │   │   └───code
+        │       │   │   ├───form-vertical
+        │       │   │   │   └───code
+        │       │   │   ├───form-wizard
+        │       │   │   │   └───code
+        │       │   │   └───theme-elements
+        │       │   ├───frontend-pages
+        │       │   │   ├───about
+        │       │   │   │   ├───banner
+        │       │   │   │   ├───key-metric
+        │       │   │   │   └───process
+        │       │   │   ├───blog
+        │       │   │   │   └───banner
+        │       │   │   ├───contact
+        │       │   │   │   ├───banner
+        │       │   │   │   └───form
+        │       │   │   ├───homepage
+        │       │   │   │   ├───banner
+        │       │   │   │   ├───defend-focus
+        │       │   │   │   ├───exceptional-feature
+        │       │   │   │   ├───faq
+        │       │   │   │   ├───features
+        │       │   │   │   └───powerful-dozens
+        │       │   │   ├───portfolio
+        │       │   │   ├───pricing
+        │       │   │   └───shared
+        │       │   │       ├───c2a
+        │       │   │       ├───footer
+        │       │   │       ├───header
+        │       │   │       ├───leadership
+        │       │   │       ├───pricing
+        │       │   │       ├───reviews
+        │       │   │       └───scroll-to-top
+        │       │   ├───landingpage
+        │       │   │   ├───animation
+        │       │   │   ├───banner
+        │       │   │   ├───c2a
+        │       │   │   ├───demo-slider
+        │       │   │   ├───features
+        │       │   │   ├───footer
+        │       │   │   ├───frameworks
+        │       │   │   ├───header
+        │       │   │   └───testimonial
+        │       │   ├───material-ui
+        │       │   │   ├───accordion
+        │       │   │   │   └───code
+        │       │   │   ├───alert
+        │       │   │   │   └───code
+        │       │   │   ├───avatar
+        │       │   │   │   └───code
+        │       │   │   ├───chip
+        │       │   │   │   └───code
+        │       │   │   ├───dialog
+        │       │   │   │   └───code
+        │       │   │   ├───lists
+        │       │   │   │   └───code
+        │       │   │   ├───popover
+        │       │   │   │   └───code
+        │       │   │   ├───tabs
+        │       │   │   │   └───code
+        │       │   │   ├───tooltip
+        │       │   │   │   └───code
+        │       │   │   ├───transfer-list
+        │       │   │   │   └───code
+        │       │   │   └───typography
+        │       │   │       └───code
+        │       │   ├───muicharts
+        │       │   │   ├───barcharts
+        │       │   │   ├───code
+        │       │   │   │   ├───areachartscode
+        │       │   │   │   ├───barchartcode
+        │       │   │   │   ├───gaugechartscode
+        │       │   │   │   ├───linechartscode
+        │       │   │   │   ├───piechartcode
+        │       │   │   │   ├───scatterchartscode
+        │       │   │   │   └───sparklinecode
+        │       │   │   ├───gaugecharts
+        │       │   │   ├───linescharts
+        │       │   │   │   ├───areacharts
+        │       │   │   │   └───linechart
+        │       │   │   ├───piecharts
+        │       │   │   ├───scattercharts
+        │       │   │   └───sparklinecharts
+        │       │   ├───muitrees
+        │       │   │   ├───code
+        │       │   │   │   └───simpletreecode
+        │       │   │   └───simpletree
+        │       │   ├───pages
+        │       │   │   ├───account-setting
+        │       │   │   └───faq
+        │       │   ├───react-tables
+        │       │   │   ├───basic
+        │       │   │   ├───column-visiblity
+        │       │   │   ├───dense
+        │       │   │   ├───drag-drop
+        │       │   │   ├───editable
+        │       │   │   ├───empty
+        │       │   │   ├───expanding
+        │       │   │   ├───filter
+        │       │   │   ├───pagination
+        │       │   │   ├───row-selection
+        │       │   │   ├───sorting
+        │       │   │   └───sticky
+        │       │   ├───shared
+        │       │   ├───tables
+        │       │   │   └───code
+        │       │   └───widgets
+        │       │       ├───banners
+        │       │       │   └───code
+        │       │       ├───cards
+        │       │       │   └───code
+        │       │       └───charts
+        │       ├───context
+        │       │   ├───BlogContext
+        │       │   ├───ChatContext
+        │       │   ├───ConatactContext
+        │       │   ├───EcommerceContext
+        │       │   ├───EmailContext
+        │       │   ├───InvoiceContext
+        │       │   ├───kanbancontext
+        │       │   ├───NotesContext
+        │       │   ├───TicketContext
+        │       │   └───UserDataContext
+        │       ├───layouts
+        │       │   ├───blank
+        │       │   └───full
+        │       │       ├───horizontal
+        │       │       │   ├───header
+        │       │       │   └───navbar
+        │       │       │       ├───NavCollapse
+        │       │       │       ├───NavItem
+        │       │       │       └───NavListing
+        │       │       ├───shared
+        │       │       │   ├───breadcrumb
+        │       │       │   ├───customizer
+        │       │       │   ├───loadable
+        │       │       │   ├───logo
+        │       │       │   └───welcome
+        │       │       └───vertical
+        │       │           ├───header
+        │       │           └───sidebar
+        │       │               ├───NavCollapse
+        │       │               ├───NavGroup
+        │       │               ├───NavItem
+        │       │               └───SidebarProfile
+        │       ├───routes
+        │       ├───theme
+        │       ├───types
+        │       │   ├───apps
+        │       │   ├───auth
+        │       │   └───layout
+        │       ├───utils
+        │       │   └───languages
+        │       └───views
+        │           ├───apps
+        │           │   ├───blog
+        │           │   ├───calendar
+        │           │   ├───chat
+        │           │   ├───contacts
+        │           │   ├───eCommerce
+        │           │   ├───email
+        │           │   ├───invoice
+        │           │   ├───kanban
+        │           │   ├───notes
+        │           │   ├───tickets
+        │           │   └───user-profile
+        │           ├───authentication
+        │           │   ├───auth1
+        │           │   ├───auth2
+        │           │   └───authForms
+        │           ├───charts
+        │           ├───dashboard
+        │           ├───forms
+        │           │   ├───form-elements
+        │           │   └───from-tiptap
+        │           ├───mui-trees
+        │           │   └───simpletree
+        │           │       ├───simpletree-customization
+        │           │       ├───simpletree-expansion
+        │           │       ├───simpletree-focus
+        │           │       ├───simpletree-items
+        │           │       └───simpletree-selection
+        │           ├───muicharts
+        │           │   ├───barcharts
+        │           │   ├───gaugecharts
+        │           │   ├───linecharts
+        │           │   │   ├───area
+        │           │   │   └───line
+        │           │   ├───piecharts
+        │           │   ├───scattercharts
+        │           │   └───sparklinecharts
+        │           ├───pages
+        │           │   ├───account-setting
+        │           │   ├───faq
+        │           │   ├───frontend-pages
+        │           │   ├───landingpage
+        │           │   ├───pricing
+        │           │   └───rollbaseCASL
+        │           ├───react-tables
+        │           │   ├───basic
+        │           │   ├───columnvisibility
+        │           │   ├───dense
+        │           │   ├───drag-drop
+        │           │   ├───editable
+        │           │   ├───empty
+        │           │   ├───expanding
+        │           │   ├───filtering
+        │           │   ├───pagination
+        │           │   ├───row-selection
+        │           │   ├───sorting
+        │           │   └───sticky
+        │           ├───spinner
+        │           ├───tables
+        │           ├───ui-components
+        │           └───widgets
+        │               ├───banners
+        │               ├───cards
+        │               └───charts
+        └───starterkit
+            ├───public
+            └───src
+                ├───assets
+                │   └───images
+                │       ├───backgrounds
+                │       ├───breadcrumb
+                │       ├───flag
+                │       ├───logos
+                │       ├───products
+                │       ├───profile
+                │       └───svgs
+                ├───components
+                │   ├───container
+                │   ├───custom-scroll
+                │   └───shared
+                ├───context
+                ├───layouts
+                │   ├───blank
+                │   └───full
+                │       ├───horizontal
+                │       │   ├───header
+                │       │   └───navbar
+                │       │       ├───NavCollapse
+                │       │       ├───NavItem
+                │       │       └───NavListing
+                │       ├───shared
+                │       │   ├───breadcrumb
+                │       │   ├───customizer
+                │       │   ├───loadable
+                │       │   ├───logo
+                │       │   └───welcome
+                │       └───vertical
+                │           ├───header
+                │           └───sidebar
+                │               ├───NavCollapse
+                │               ├───NavGroup
+                │               ├───NavItem
+                │               └───SidebarProfile
+                ├───routes
+                ├───theme
+                ├───utils
+                │   └───languages
+                └───views
+                    ├───authentication
+                    ├───sample-page
+                    └───spinner
+PS C:\Users\nss\Downloads\modernize-react-v7>
