@@ -11,6 +11,7 @@ const BlankLayout = Loadable(lazy(() => import('../layouts/blank/BlankLayout')))
 /* ****Pages***** */
 const SamplePage = Loadable(lazy(() => import('../views/sample-page/SamplePage')))
 const Error = Loadable(lazy(() => import('../views/authentication/Error')));
+const HealthCheck = Loadable(lazy(() => import('../views/tools/healthcheck'))); // Added HealthCheck import
 
 const Router = [
   {
@@ -19,6 +20,7 @@ const Router = [
     children: [
       { path: '/', element: <Navigate to="/sample-page" /> },
       { path: '/sample-page', exact: true, element: <SamplePage /> },
+      { path: '/tools/healthcheck', exact: true, element: <HealthCheck /> }, // Added HealthCheck route
       { path: '*', element: <Navigate to="/auth/404" /> },
     ],
   },

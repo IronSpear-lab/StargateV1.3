@@ -14,6 +14,7 @@ import {
 // import Logo from 'src/layouts/full/shared/logo/Logo';
 import PageContainer from 'src/components/container/PageContainer';
 import { logInfo, logError } from '../../utils/logger';
+import { postRequest } from '../../api/djungelApi.js'; // Import postRequest
 
 const Login = () => {
   const [email, setEmail] = useState('');
@@ -30,36 +31,25 @@ const Login = () => {
     logInfo('Login attempt initiated for email:', email);
 
     try {
-      const response = await fetch('/api/login', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ email, password }),
-      });
-
-      const data = await response.json();
-
-      if (response.ok) {
-        // Assuming the token is returned in a field named 'token'
-        if (data.token) {
-          logInfo('Login successful. Token received.', { email });
-          localStorage.setItem('authToken', data.token); // Store token in localStorage
-          navigate('/dashboard');
-        } else {
-          logError('Login successful, but no token received.', { email, responseData: data });
-          setError('Login successful, but no token received.');
-        }
+      // The djungelApi.js postRequest prepends /api to the endpoint
+      const data = await postRequest('/login', { email, password }); 
+      
+      // postRequest throws an error for non-ok responses, so if we reach here, it was successful.
+      // data should be the parsed JSON response.
+      if (data.token) {
+        logInfo('Login successful. Token received.', { email });
+        localStorage.setItem('authToken', data.token);
+        navigate('/dashboard');
       } else {
-        // Handle errors from API (e.g., invalid credentials)
-        logError('Login API error:', { status: response.status, message: data.message || response.statusText, email });
-        setError(data.message || `Login failed: ${response.statusText}`);
+        // This case might be less likely if backend always returns token on success or errors out
+        logError('Login successful, but no token received in data.', { email, responseData: data });
+        setError('Login successful, but no token was provided by the server.');
       }
-    } catch (err) {
-      // Handle network errors or other exceptions
-      logError('Login request failed (network or other exception):', { error: err, email });
-      // console.error('Login request failed:', err); // Original console.error, now handled by logError
-      setError('Login request failed. Please try again.');
+    } catch (err) { // err is an object like { status, data } from djungelApi or other Error
+      logError('Login API error:', { error: err, email });
+      // err.data from djungelApi contains the backend's JSON error response
+      const message = err.data?.message || err.message || 'Login request failed. Please try again.';
+      setError(message);
     } finally {
       setIsLoading(false);
     }
